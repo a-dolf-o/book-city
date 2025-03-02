@@ -47,6 +47,42 @@
 
 ## Business & Finance
 
+> [**變化中的世界秩序：橋水基金應對國家興衰的原則**](https://www.books.com.tw/products/0010920073)
+
+`Business & Finance` `Economics & Trends` `Concepts/ Trends` `9786267099292`
+
+無論你同不同意，這本書都將給你一個展望未來的全新角度。 本書特色 1.達利歐開時光機，帶你走一趟五百年來大國興衰歷程本書考察史上最動盪的經濟和政治時期，研究主要帝國 ...
+
+> [**橡皮擦計畫：兩位天才心理學家，一段改變世界的情誼**](https://www.books.com.tw/products/0010782516)
+
+`Business & Finance` `Economics & Trends` `Economics` `9789866613944`
+
+《橡皮擦計畫》是麥可‧路易士備受好評的作品，講述這兩位重要心理學家之間，如何長期緊密合作、探究人類心智秘密的故事。 這兩位科學史上最偉大的夥伴，有人形容他們是心理學界的「約翰‧藍儂與保羅‧ ...
+
+> [**大債危機：橋水基金應對債務危機的原則**](https://www.books.com.tw/products/0010823712)
+
+`Business & Finance` `Investment & Financial Management` `Bonds & Funds` `9789867778666`
+
+本書是達利歐為2008金融危機十週年推出的總結之作，公開了橋水基金應對債務危機時的獨特模型，以及危機處理原則，書中揭示其通古博今的長時間研究成果與獨特的視角，令人眼界 ...
+
+> [**致富心態：關於財富、貪婪與幸福的20堂理財課（暢銷增訂版）**](https://www.books.com.tw/products/0010947224)
+
+`Business & Finance` `Investment & Financial Management` `Investment Science` `9786263550537`
+
+《致富心態》由《華爾街日報》專欄作家摩根·豪瑟執筆，揭示財務自由的核心祕訣：真正影響財富的不是專業知識或努力，而是個人的行為模式與心理素養。豪瑟以生動的故事和實證 ...
+
+> [**掌握市場週期：價值投資大師霍華．馬克斯教你看對市場時機，提高投資勝算**](https://www.books.com.tw/products/0010810203)
+
+`Business & Finance` `Investment & Financial Management` `Investment Science` `9789867778475`
+
+此書為霍華．馬克斯在《投資最重要的事》之後又一巨作，對市場週期做更專精且深入的剖析、分享他在實務上所使用的方法，堪稱是目前市場上探討此一領域最深且廣的一本代表作。
+
+> [**投資最重要的事：一本股神巴菲特讀了兩遍的書**](https://www.books.com.tw/products/0010744933)
+
+`Business & Finance` `Investment & Financial Management` `Investment Science` `9789869422642`
+
+霍華・馬克思這本《投資最重要的事》是價值投資界備受推崇的一本書，同時也是巴菲特的推薦書之一。本書和其他詮釋價值投資概念的著作並不一樣，它沒有教基本面財務比率的分析 ...
+
 > [**創新的兩難【20週年暢銷經典版】：當代最具影響力的商管奠基之作，影響賈伯斯、比爾．蓋茲到貝佐斯一生的創新聖經**](https://www.books.com.tw/products/0010917450)
 
 `Business & Finance` `Management & Leadership` `Business Strategies` `9786263181618`
@@ -79,6 +115,12 @@
 
 全球潛能開發專家高原新作《為何我們總是想得太多，卻做得太少？》教你── 7個行動改變大法＋4個實踐步驟，讓你學會高效行動，從此改變人生！ 如果你心中也有這樣的疑惑──
 
+> [**心態致富：從心態、行為到習慣，創造財富的69堂關鍵常識養成課**](https://www.books.com.tw/products/0010852483)
+
+`Business & Finance` `Successful Methods` `Get Rich` `9789862358238`
+
+財富是一種心態，或者更準確地說，財富是由心態創造的。很少有人能一舉成功，立刻變得富有或獲得大量財富。大多數富有的人都是漸漸地積累財富，而這些辛勤工作的男男女女有時 ...
+
 > [**快速致富：開拓一條致富快車道，提早實現真正的財務自由**](https://www.books.com.tw/products/0010877372)
 
 `Business & Finance` `Successful Methods` `Get Rich` `9789869761475`
@@ -106,6 +148,12 @@
 `Business & Finance` `Successful Methods` `Self-growth` `9789865535667`
 
 《與成功有約》是史蒂芬·柯維的經典之作，將個人成長、時間管理與人際關係的核心原則總結為七個習慣，這些習慣為讀者提供了在生活和工作中達到長期成功的實用框架。書中的「 ...
+
+> [**原則：生活和工作**](https://www.books.com.tw/products/0010782941)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9789867778178`
+
+不同於所有傳統管理書，《原則》闡述了達利歐的創新概念——極度真實、極度透明，以其為基礎的「創意擇優」和「可信度加權」的決策機制。書中500多條原則幫助所有想不斷進化的 ...
 
 [_back_](#table-of-contents)
 
