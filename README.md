@@ -81,6 +81,21 @@ You are what you write.
 《魔球》作者MICHAEL LEWIS，新書雷霆上市！
 ＂謝謝麥可寫了這本書！＂～諾貝爾經濟學獎得主、《快思慢想》作者 丹尼爾‧康納曼
 
+> [**蘋果橘子經濟學【擴充．修訂紀念版】**](https://www.books.com.tw/products/0010327164)
+
+`Business & Finance` `Economics & Trends` `Economics` `9789867291936`
+
+加贈收錄六萬字精彩內容
+
+原本以為不會有人想看的一本書
+全球熱銷400萬冊
+簡單有趣的方法，解決所有事件與謎團
+
+全球矚目的經濟學怪胎
+《時代》雜誌全球最具影響力百大人物
+「經濟學界的印第安那瓊斯」、「全美國最有趣的腦袋」
+克拉克獎得主，諾貝爾經濟學獎明日之星
+
 > [**經濟大師的迴響：【哈佛最受歡迎教授的13堂經濟入門課】搞懂經濟大師的缺陷與洞見，以及他們塑造的世界**](https://www.books.com.tw/products/0010881560)
 
 `Business & Finance` `Economics & Trends` `Economics` `9789869911559`
@@ -145,6 +160,16 @@ You are what you write.
 《金融時報》、《紐約時報》、《富比士》、《商業週刊》、《華爾街日報》
 暢銷商管書，全球銷售至少10萬冊的商管書經典
 
+> [**思辨賽局【修訂版】：看穿局勢、創造優勢的策略智慧**](https://www.books.com.tw/products/0010992048)
+
+`Business & Finance` `Management & Leadership` `Business Strategies` `9786267492116`
+
+賽局經典之作．Amazon百大必讀商管書
+解析在職場、商場、體壇、政界、人生…所有賽局的贏家策略
+
+諾貝爾獎賽局巨擘謝林推薦：
+「想懂賽局……我就推薦這兩位作者的書！」
+
 > [**從0到1：打開世界運作的未知祕密，在意想不到之處發現價值**](https://www.books.com.tw/products/0010929022)
 
 `Business & Finance` `Management & Leadership` `Entrepreneurship` `9789862419533`
@@ -155,6 +180,63 @@ You are what you write.
 
 史丹佛大學改變未來的一堂課
 矽谷傳奇創業家、PayPal創辦人 彼得‧提爾 第一手分享
+
+> [**彼得原理：暢銷50年商管巨作！揭露公司充滿無能人物的理由**](https://www.books.com.tw/products/0010860154)
+
+`Business & Finance` `Management & Leadership` `Management Science` `9789869887878`
+
+★★★《紐約時報》經典暢銷書！已翻譯成多國語言，全球熱銷破億冊★★★
+★★★管理者必讀！長銷50年，歷久不衰的商業管理經典★★★
+
+★★★商業周刊1701期書摘選書★★★
+
+> [**哈佛這樣教談判力：增強優勢，談出利多人和的好結果**](https://www.books.com.tw/products/0010590581)
+
+`Business & Finance` `Social Work Skills` `Negotiations` `9789573272243`
+
+★哈佛大學法、商學院30年經典教材
+★Amazon「談判類」排行榜No.1
+★全球總銷售超過800萬本
+★美國《商業週刊》最長銷的商業書之一
+
+> [**華頓商學院最受歡迎的談判課:上完這堂課，世界都會聽你的【暢銷20萬冊增修版】**](https://www.books.com.tw/products/0010773987)
+
+`Business & Finance` `Social Work Skills` `Negotiations` `9789861343136`
+
+★博客來、誠品、金石堂冠軍書！華爾街日報、今日美國報暢銷書No.1
+★《商業周刊》特別報導，價值100萬的談判課
+★Google全球教育訓練指定教材，各大企業與學校機關指定讀物
+★戴蒙教授專程撰寫新版序言，問候台灣讀者！原則不變，案例更新、更切合當下現況
+★全球最優秀學生拚命競標、財星五百大企業主管爭相說讚的談判課，如今掌握在你手裡。
+
+人生無處不是談判，每次你都能爭取更多──
+
+> [**頂尖名校必修的理性談判課： 哈佛、華頓商學院、MIT指定閱讀，提高人生勝率的經典指南**](https://www.books.com.tw/products/0010861702)
+
+`Business & Finance` `Social Work Skills` `Negotiations` `9789861343600`
+
+★30年不敗經典，你唯一需要的一本談判書！
+★哈佛商學院、華頓商學院、MIT、芝加哥大學、加州大學……全美一流名校指定閱讀。
+★揭開決策背後的思辨機制，提高人生勝率的談判邏輯。談判不只是為了贏，有時候贏了反而失去更多！
+
+> [**哈佛法學院的情緒談判課：5大核心情緒策略，創造共贏成果**](https://www.books.com.tw/products/0010859314)
+
+`Business & Finance` `Social Work Skills` `Negotiations` `9789865519063`
+<br>
+`Psychlogical Inspirational` `Psychology` `Behavior & Decision-Making`
+
+──哈佛法學院經典讀物、一本給所有人的談判書──
+運用談判學╳心理學架構5大情緒策略，
+把情緒納為談判手段，幫你扭轉情勢、明智決策
+
+> [**哈佛商學院的雙贏談判課**](https://www.books.com.tw/products/0010862981)
+
+`Business & Finance` `Social Work Skills` `Negotiations` `9789869887830`
+
+★★★蟬聯Amazon談判類圖書排行榜前列，獲得讀者4.6顆星好評推薦！★★★
+★★★美國企業界、哈佛商學院最受歡迎的談判課★★★
+★★★獲得國際衝突預防與解決協會「傑出圖書獎」★★★
+★★★《與成功有約》作者史蒂芬．柯維、領導學之父華倫．班尼斯等大咖重磅推薦★★★
 
 > [**決斷2秒間：擷取關鍵資訊，發揮不假思索的力量（典藏紀念版）**](https://www.books.com.tw/products/0010691640)
 
@@ -171,6 +253,22 @@ You are what you write.
 獲選《快速企業》年度最佳商業書
 AMAZON年度總榜TOP 5
 全球34國語言翻譯
+
+> [**盲點：哈佛、華頓商學院課程選讀，為什麼傳統決策會失敗，而我們可以怎麼做？**](https://www.books.com.tw/products/0010884654)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789861343723`
+
+挖掘人性本質，提升決策品質！
+善用行為倫理學，洞察不由自主的心理反應，
+意識到個人、組織、社會三個層次的思考盲點，
+就能避免因錯估人性而付出慘痛代價！
+
+> [**競合策略：商業運作的真實力量（二十周年經典版）**](https://www.books.com.tw/products/0010683961)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789868980273`
+
+從經典個案學習商業策略
+哈佛、耶魯、MIT頂尖商學院至今必讀
 
 > [**為何我們總是想得太多，卻做得太少：擊敗拖延、惰性、完美主義，讓行動力翻倍的高效習慣法則**](https://www.books.com.tw/products/0010879885)
 
@@ -219,6 +317,17 @@ AMAZON年度總榜TOP 5
 意志力的差距，
 就是年收入、學業成績、身體狀態、婚姻生活、人際關係好壞的差距。
 而且如同肌肉，是可以輕鬆鍛鍊出來的！
+
+> [**無限賽局：翻轉思維框架，突破勝負盲點，贏得你想要的未來**](https://www.books.com.tw/products/0010969021)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9789863986348`
+
+★ 連續10年亞馬遜分類榜TOP1暢銷作家
+★《紐約時報》《華爾街日報》暢銷書
+★ 授權32國版本｜《金融時報》《Inc.》專文報導
+★ Thinkers50管理思想家｜TED演說影片觀看人次史上第二高
+
+《先問，為什麼？》暢銷作家賽門‧西奈克最新顛覆力作
 
 > [**我們為什麼要讀書？為什麼要工作？【自我探索平裝版】：為了得到幸福，希望你能好好思考這些事**](https://www.books.com.tw/products/0010938593)
 
