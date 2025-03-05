@@ -1,4 +1,4 @@
-# ♠️ Book City
+# 🎓 Book City
 
 **Welcome to Book City!**
 
