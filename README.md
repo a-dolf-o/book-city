@@ -407,6 +407,20 @@ AMAZON年度總榜TOP 5
 
 ## Humanities and Social Sciences
 
+> [**槍炮、病菌與鋼鐵：人類社會的命運‧25週年暢銷紀念版**](https://www.books.com.tw/products/0010829817)
+
+`Humanities and Social Sciences` `Anthropology/Ethnology` `9789571378527`
+
+歷史上到底發生了什麼事，讓世界這麼不平等？
+
+「我們這個時代的達爾文」賈德‧戴蒙經典不墜之作
+最具原創性與影響力的一萬三千年人類簡史
+
+榮獲普立茲獎、英國皇家學會科學圖書獎、紐約時報暢銷書
+36國語言譯本，全球銷售超過數百萬冊
+
+｜25週年暢銷紀念版｜
+
 > [**21世紀的21堂課（增訂版）**](https://www.books.com.tw/products/0010938857)
 
 `Humanities and Social Sciences` `History` `Introduction to History` `9789865258924`
@@ -418,6 +432,32 @@ AMAZON年度總榜TOP 5
 —— 哈拉瑞
 
 《21世紀的21堂課》全新修訂改版！
+
+> [**昨日世界：找回文明新命脈（暢銷慶祝版）**](https://www.books.com.tw/products/0010845709)
+
+`Humanities and Social Sciences` `Social Issues` `Cultural Review/Social Watch` `9789571359892`
+
+達爾文三部曲現代版！
+繼《槍炮、病菌與鋼鐵》、《大崩壞》，
+人類大歷史三部曲最終章《昨日世界》磅礡上市：
+重拾遺落在文明洪流中的昨日美好。
+
+★ 暢銷慶祝版新增賈德．戴蒙寫給台灣的獨家序言。
+★ 比爾．蓋茲：「本書是繼《槍炮、病菌與鋼鐵》，最能啟發讀者世界觀的一本書。」
+★《紐約時報》暢銷書。
+
+> [**大崩壞：人類社會的明天？（15週年暢銷紀念版）**](https://www.books.com.tw/products/0010837371)
+
+`Humanities and Social Sciences` `Social Issues` `Cultural Review/Social Watch` `9789571379173`
+
+人類史上第一次，
+我們的選擇足以決定全世界的命運。
+繼《槍炮、病菌與鋼鐵》之後，
+賈德．戴蒙獻給21世紀人類的求生之書。
+
+★ 普立茲獎得主作品
+★《紐約時報》、《華盛頓郵報》、《出版人週刊》暢銷書
+★ 15週年暢銷紀念版
 
 > [**人類大歷史（增訂版）：從野獸到扮演上帝**](https://www.books.com.tw/products/0010938851)
 
