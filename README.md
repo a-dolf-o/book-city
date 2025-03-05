@@ -13,6 +13,11 @@
 
   - [**Art Design**](#art-design)
   - [**Business & Finance**](#business--finance)
+    - [**Economics & Trends**](#economics--trends)
+    - [**Investment & Financial Management**](#investment--financial-management)
+    - [**Management & Leadership**](#management--leadership)
+    - [**Social Work Skills**](#social-work-skills)
+    - [**Successful Methods**](#successful-methods)
   - [**Children's Books/ Adolescent Literature**](#childrens-books-adolescent-literature)
   - [**Humanities and Social Sciences**](#humanities-and-social-sciences)
   - [**Psychlogical Inspirational**](#psychlogical-inspirational)
@@ -55,6 +60,8 @@ You are what you write.
 ---
 
 ## Business & Finance
+
+### Economics & Trends
 
 > [**一本書讀懂經濟學：50個經濟學關鍵概念，教你想通商業的原理、金錢的道理**](https://www.books.com.tw/products/0010932824)
 
@@ -115,6 +122,10 @@ You are what you write.
 他的實證研究和理論洞見，加速行為經濟學的擴展，亦為經濟研究和政策方面帶來深遠影響。」
 ──2017年諾貝爾獎評審委員會
 
+[_back_](#table-of-contents)
+
+### Investment & Financial Management
+
 > [**致富心態：關於財富、貪婪與幸福的20堂理財課（暢銷增訂版）**](https://www.books.com.tw/products/0010947224)
 
 `Business & Finance` `Investment & Financial Management` `Investment Science` `9786263550537`
@@ -149,6 +160,10 @@ You are what you write.
 傳奇大師精鍊投資最重要的事，
 加值4位頂尖投資專家評注筆記，
 無論入門者或是老手，都能從大師洞見中找出自己的致勝方法！
+
+[_back_](#table-of-contents)
+
+### Management & Leadership
 
 > [**創新的兩難【20週年暢銷經典版】：當代最具影響力的商管奠基之作，影響賈伯斯、比爾．蓋茲到貝佐斯一生的創新聖經**](https://www.books.com.tw/products/0010917450)
 
@@ -189,6 +204,10 @@ You are what you write.
 ★★★管理者必讀！長銷50年，歷久不衰的商業管理經典★★★
 
 ★★★商業周刊1701期書摘選書★★★
+
+[_back_](#table-of-contents)
+
+### Social Work Skills
 
 > [**哈佛這樣教談判力：增強優勢，談出利多人和的好結果**](https://www.books.com.tw/products/0010590581)
 
@@ -277,6 +296,10 @@ AMAZON年度總榜TOP 5
 ★★世界五百大企業實證的行為改變法則★★
 ★★為什麼99％的人想著想著就放棄了，只有1％的人做得到！★★
 ★★從「空想魯蛇」晉升「行動達人」最佳實用指南★★
+
+[_back_](#table-of-contents)
+
+### Successful Methods
 
 > [**心態致富：從心態、行為到習慣，創造財富的69堂關鍵常識養成課**](https://www.books.com.tw/products/0010852483)
 
