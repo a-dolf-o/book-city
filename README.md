@@ -537,8 +537,6 @@ AMAZON年度總榜TOP 5
 ★ 授權32國版本｜《金融時報》《Inc.》專文報導
 ★ Thinkers50管理思想家｜TED演說影片觀看人次史上第二高
 
-《先問，為什麼？》暢銷作家賽門‧西奈克最新顛覆力作
-
 > [**我們為什麼要讀書？為什麼要工作？【自我探索平裝版】：為了得到幸福，希望你能好好思考這些事**](https://www.books.com.tw/products/0010938593)
 
 `Business & Finance` `Successful Methods` `Self-growth` `9789865079574`
