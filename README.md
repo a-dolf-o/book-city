@@ -16,10 +16,12 @@
     - [**Economics & Trends**](#economics--trends)
     - [**Investment & Financial Management**](#investment--financial-management)
     - [**Management & Leadership**](#management--leadership)
+    - [**Marketing/ Advertising/ Sales**](#marketing-advertising-sales)
     - [**Social Work Skills**](#social-work-skills)
     - [**Successful Methods**](#successful-methods)
   - [**Children's Books/ Adolescent Literature**](#childrens-books-adolescent-literature)
   - [**Humanities and Social Sciences**](#humanities-and-social-sciences)
+  - [**Natural Science**](#natural-science)
   - [**Psychlogical Inspirational**](#psychlogical-inspirational)
 
 </details>
@@ -185,6 +187,16 @@ You are what you write.
 諾貝爾獎賽局巨擘謝林推薦：
 「想懂賽局……我就推薦這兩位作者的書！」
 
+> [**10倍速時代（新版）暢銷全球20年‧全新增訂版：唯偏執狂得以倖存 英特爾傳奇CEO 安迪．葛洛夫的經營哲學(二版)**](https://www.books.com.tw/products/0010759410)
+
+`Business & Finance` `Management & Leadership` `Business Strategies` `9789862138045`
+
+暢銷全球20年‧全新增訂版
+獲經濟部中小企業處金書獎
+
+唯偏執狂得以倖存
+上一個小時造就你的因素，下一個小時就顛覆你！
+
 > [**從0到1：打開世界運作的未知祕密，在意想不到之處發現價值**](https://www.books.com.tw/products/0010929022)
 
 `Business & Finance` `Management & Leadership` `Entrepreneurship` `9789862419533`
@@ -195,6 +207,39 @@ You are what you write.
 
 史丹佛大學改變未來的一堂課
 矽谷傳奇創業家、PayPal創辦人 彼得‧提爾 第一手分享
+
+> [**最後吃，才是真領導：創造跨世代溝通合作的零內鬨團隊（增訂版）**](https://www.books.com.tw/products/0010938458)
+
+`Business & Finance` `Management & Leadership` `Leading & Fostering` `9789863983033`
+
+根據破1.5億次瀏覽超瘋傳影片〈千禧世代在職場上出了什麼問題〉
+全新增訂跨世代溝通合作章節與附錄！最新解答盡在本書！
+增訂版上市即登amazon分類排行榜TOP1
+
+> [**先問，為什麼？：顛覆慣性思考的黃金圈理論，啟動你的感召領導力（新增訂版）**](https://www.books.com.tw/products/0010926506)
+
+`Business & Finance` `Management & Leadership` `Leading & Fostering` `9789863983347`
+
+★ 連續10年高踞亞馬遜分類榜TOP1
+★ 全球銷售破百萬冊，授權36種語言
+★ TED同名演講全球4000萬人次觀看
+
+Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
+揭露激勵人心與創造長期成功的真領導力！
+真正激勵自己、打動人心的關鍵，
+不是你做什麼，而是你為什麼而做！
+
+> [**找到你的為什麼：尋找最值得你燃燒自己、點亮別人熱情的行動計畫**](https://www.books.com.tw/products/0010787375)
+
+`Business & Finance` `Management & Leadership` `Leading & Fostering` `9789863983354`
+
+★TED 4000萬人追蹤的黃金圈理論的具體行動方案
+★新生代領導大師賽門‧西奈克一次解答實踐《先問，為什麼？》的疑惑
+
+成就感，不是少數人的特權，是人人都可以擁有的權利！
+關鍵在清晰地了解自己的為什麼，有紀律地天天刻意實踐。
+個人與團隊，都能按部就班找到為什麼，
+為生活與工作注入熱情與意義！
 
 > [**彼得原理：暢銷50年商管巨作！揭露公司充滿無能人物的理由**](https://www.books.com.tw/products/0010860154)
 
@@ -207,7 +252,72 @@ You are what you write.
 
 [_back_](#table-of-contents)
 
+### Marketing/ Advertising/ Sales
+
+> [**影響力：說服的六大武器，讓人在不知不覺中受擺佈【個案升級版】**](https://www.books.com.tw/products/0010718186)
+
+`Business & Finance` `Marketing/ Advertising/ Sales` `Sales/ Multi-level Marketing` `9789869223010`
+
+【個案升級版】
+賣不掉的商品，為何略施小技後瞬間造成搶購？
+商業廣告運用順從手法誘惑消費者，你不得不防！
+詐騙集團用什麼手法使人不自覺上當、受騙？
+心謀不軌者借用順從手法為非作歹，你不得不防！
+
+熱銷超過200萬本
+◎榮登《紐約時報》暢銷書榜
+◎榮登《華爾街日報》暢銷書榜
+◎《財富雜誌》75本必讀商業書之一
+◎被評選為「一百本最佳商業書籍」之一
+◎25本企業家必讀書籍之一
+◎矽谷創業家和投資人推薦的25本書之一
+◎獲選為《經理人月》100大商管好書之一
+◎美國哈佛大學等各大頂尖學府指定用書
+◎查理．蒙格指定必讀之書
+◎股神華倫巴菲特推薦必讀之書
+◎最多被引用的書籍之一
+
+[_back_](#table-of-contents)
+
 ### Social Work Skills
+
+> [**影響力：讓人乖乖聽話的說服術(全新增訂版)**](https://www.books.com.tw/products/0010923407)
+
+`Business & Finance` `Social Work Skills` `Communication` `9786269528813`
+
+超級暢銷書，全球銷量超過500萬冊！
+影響力和說服力的經典巨著，內容豐富，由淺入深，廣受歡迎！
+全新版本，增加新研究、新見解、新例證，以及網路世界的新應用。
+
+> [**鋪梗力：影響力教父最新研究與技術，在開口前就說服對方**](https://www.books.com.tw/products/0010770327)
+
+`Business & Finance` `Social Work Skills` `Communication` `9789571371979`
+
+一出手便是經典！
+｜傳奇暢銷書《影響力》作者羅伯特．席爾迪尼博士｜
+————最新「說服」科學研究————
+
+◤有效的說服方式，祕訣不在於訊息本身，
+而在於訊息傳達之前的關鍵時刻。◢
+「鋪梗力」能讓你的目標群眾自己做好點頭的準備！
+
+★ 《紐約時報》、《華爾街日報》暢銷書
+★ 《哈佛商業評論》：「當代商業議題的突破性概念。」
+★ 《金融時報》2016年最佳商業書
+★ 《Inc.》2016年最佳銷售暨行銷書
+
+> [**與人連結［全球暢銷經典］：成功不是單人表演！世界頂尖領導大師與人同贏的溝通關鍵**](https://www.books.com.tw/products/0010815385)
+
+`Business & Finance` `Social Work Skills` `Communication` `9789867778550`
+
+世界頂尖領導大師──麥斯威爾博士，
+讓全球3000萬人跟隨的「致勝連結法」，
+已幫助《財星》雜誌前五百大企業、國家領袖、頂尖企業領導人，
+連結同贏──更幫你獲得信任、事業與影響力！
+
+★《紐約時報》、《華爾街日報》經典暢銷書★
+★全球授權超過15個國家、影響逾3000萬人★
+★美國亞馬遜書店讀者評價近5顆星★
 
 > [**哈佛這樣教談判力：增強優勢，談出利多人和的好結果**](https://www.books.com.tw/products/0010590581)
 
@@ -257,6 +367,25 @@ You are what you write.
 ★★★獲得國際衝突預防與解決協會「傑出圖書獎」★★★
 ★★★《與成功有約》作者史蒂芬．柯維、領導學之父華倫．班尼斯等大咖重磅推薦★★★
 
+> [**與人同贏［全球暢銷經典］：人，是世上最值得投資的資產！領導學大師掌握職場、家庭與人際的25個共贏原則**](https://www.books.com.tw/products/0010780178)
+
+`Business & Finance` `Social Work Skills` `Relationships` `9789867778147`
+
+★《紐約時報》暢銷作家、人際關係權威經典力作★
+★一上市，全球授權超過13種語言★
+★美國亞馬遜書店讀者評價近5顆星★
+★初版台灣銷售已突破100,000冊★
+
+> [**與成功連結［全球暢銷經典］：用思考打造勝利人生！世界領導大師的11種高效思考練習**](https://www.books.com.tw/products/0010925637)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9786267099506`
+<br>
+`Business & Finance` `Successful Methods` `Self-growth`
+
+換上成功者的腦袋！
+美國管理協會（AMA）評選第一名企業領袖 約翰．麥斯威爾
+給你實用‧具體‧好讀 的成功法則
+
 > [**決斷2秒間：擷取關鍵資訊，發揮不假思索的力量（典藏紀念版）**](https://www.books.com.tw/products/0010691640)
 
 `Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789571363936`
@@ -301,6 +430,17 @@ AMAZON年度總榜TOP 5
 
 ### Successful Methods
 
+> [**找對夢想 [全球暢銷經典]：世界領導學大師的10大關鍵問題，教你設定目標，再實現夢想**](https://www.books.com.tw/products/0010984273)
+
+`Business & Finance` `Successful Methods` `Career Planning` `9786267366745`
+
+夢想不是胡思亂想，而是有步驟、可依循！
+世界領導大師麥斯威爾，近半世紀淬鍊的人生智慧
+改變無數讀者的夢想實踐指南
+
+★美國亞馬遜書店4.7顆星評價，超過500個5星好評
+★讀者盛讚：「這是麥斯威爾的書裡我最喜歡的！」
+
 > [**心態致富：從心態、行為到習慣，創造財富的69堂關鍵常識養成課**](https://www.books.com.tw/products/0010852483)
 
 `Business & Finance` `Successful Methods` `Get Rich` `9789862358238`
@@ -324,6 +464,15 @@ AMAZON年度總榜TOP 5
 理財慢車道的重心是就業；致富快車道的核心是事業
 國際暢銷書，銷售百萬冊！
 已翻譯超過15種語言！
+
+> [**與逆境同行 [全球暢銷經典]：領導學大師的16堂失敗訓練課，讓你翻轉慣性思維、突破困局**](https://www.books.com.tw/products/0010987670)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9786267366929`
+
+成功的關鍵不是天分、學歷、也不是財富
+而是面對逆境的能力
+領導學大師破除失敗與成功的框架，教你──
+面對逆境→翻轉心智→突破慣性→收穫成功
 
 > [**輕鬆駕馭意志力（暢銷10年紀念新版）：史丹佛大學最受歡迎的心理素質課**](https://www.books.com.tw/products/0010903362)
 
@@ -379,6 +528,13 @@ AMAZON年度總榜TOP 5
 
 ☆全世界企業界、管理者、金融業者、渴望進化的人都在看☆
 ☆淬煉40年、價值1,500億美元的成功法，不藏私公開☆
+
+> [**精準成長［全球暢銷經典］：打造高價值的你！發揮潛能、事業及領導力的高效成長法則**](https://www.books.com.tw/products/0010851824)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9789867778987`
+
+埋頭苦幹、認真工作，其實都無法改善人生！
+想要財富自由、發揮更多潛力，你需要讓自己倍效成長
 
 [_back_](#table-of-contents)
 
@@ -479,6 +635,22 @@ AMAZON年度總榜TOP 5
 —— 康納曼（Daniel Kahneman），《快思慢想》作者
 
 【作者新版序言+新增史證修訂】
+
+[_back_](#table-of-contents)
+
+---
+
+## Natural Science
+
+> [**自私的基因（新版）**](https://www.books.com.tw/products/0010846673)
+
+`Natural Science` `Animals & Plants` `Evolution & Inheritance` `9789864799190`
+
+．翻譯超過二十五種語言、全球熱銷百萬冊，演化生物學大師理查．道金斯成名著作
+．《衛報》非文學類百大好書
+．英國皇家學會評為「最有啟發性的科學書籍」
+
+我們都是求生存的機器——機器人的化身，暗地裡已被輸入某些程式，用來保養這些叫做「基因」的自私分子！──道金斯
 
 [_back_](#table-of-contents)
 
