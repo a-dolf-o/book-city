@@ -23,6 +23,7 @@
   - [**Humanities and Social Sciences**](#humanities-and-social-sciences)
   - [**Natural Science**](#natural-science)
   - [**Psychlogical Inspirational**](#psychlogical-inspirational)
+  - [**Test Book**](#test-book)
 
 </details>
 
@@ -124,6 +125,17 @@ You are what you write.
 ★新版唯一中譯本，國內外專家、學者與教授共同推薦
 ★掌握經濟指標！一本所有投資人必讀的經濟思想史
 
+> [**誘因設計：精準傳遞訊號，讓人照著你的想法行動**](https://www.books.com.tw/products/0010971532)
+
+`Business & Finance` `Economics & Trends` `Public/ Life Economics` `9786263554528`
+
+《逆思維》、《恆毅力》、《零阻力改變》等暢銷書作者 強力推薦！
+《經濟學人》、《金融時報》、《INC.》、《行為科學家》選書推薦
+兩大諾貝爾經濟學獎得主 力薦
+《一切都是誘因的問題》作者最新力作
+
+現場實驗 × 行為經濟學 × 賽局理論，完全剖析各種誘因設計的底層邏輯
+
 > [**不當行為：行為經濟學之父教你更聰明的思考、理財、看世界**](https://www.books.com.tw/products/0010716217)
 
 `Business & Finance` `Economics & Trends` `Public/ Life Economics` `9789861342771`
@@ -151,6 +163,18 @@ You are what you write.
 全新收錄：成功投資人的三大特質
 
 《華爾街日報》、亞馬遜書店暢銷書
+
+> [**持續買進：資料科學家的投資終極解答，存錢及致富的實證方法**](https://www.books.com.tw/products/0010957881)
+
+`Business & Finance` `Investment & Financial Management` `Investment Science` `9786267252710`
+
+★聽說「逢低買進」是投資穩賺策略？
+錯！最強資料科學家告訴你：
+千萬別為了抄底，浪費時間在市場外觀望，
+「持續買進」才是致富不敗法則！
+★《原子習慣》、《致富心態》作者一致強推，
+出版即登亞馬遜投資類暢銷冠軍、
+BookAuthority評選2022年最佳財經書
 
 > [**掌握市場週期：價值投資大師霍華．馬克斯教你看對市場時機，提高投資勝算**](https://www.books.com.tw/products/0010810203)
 
@@ -278,6 +302,47 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 [_back_](#table-of-contents)
 
 ### Marketing/ Advertising/ Sales
+
+> [**看不見的影響力： 華頓商學院教你看清自己如何受影響，做最好的決定【暢銷慶祝版】**](https://www.books.com.tw/products/0010903616)
+
+`Business & Finance` `Marketing/ Advertising/ Sales` `Consumer Behaviors` `9789571393353`
+
+你比自己想的更容易被左右！
+為何我們有時顯得盲從，有時又刻意不做別人已經在做的事？
+我們以為做決定的是自己，卻忽略了背後的「社會影響力」。
+
+＊ 冠軍暢銷書《瘋潮行銷》作者又一剖析人類行為的代表作
+＊《何時要從眾？何時又該特立獨行？》暢銷慶祝版
+
+> [**如何讓人聽你的：華頓商學院教你用文字引發興趣、拉近關係、有效說服**](https://www.books.com.tw/products/0010968468)
+
+`Business & Finance` `Marketing/ Advertising/ Sales` `Marketing` `9786263742147`
+
+微調文字帶來巨大成功的科學發現
+ 
+換個說法，結果大不同。
+從海量文本發掘6種文字的魔力，
+讓你的請求難以抗拒、意見聽起來像事實、
+別人也更容易對你吐實。
+
+★ 繼《如何改變一個人》榮獲蔡康永、眾多KOL年度推薦書籍，又一探討說服力的全新著作。
+★ 亞當．格蘭特、丹尼爾．品克、詹姆．柯林斯、馬歇爾．葛史密斯等名家口碑推薦。
+★ 新思潮俱樂部（Next Big Idea Club）推薦必讀。
+
+> [**瘋潮行銷：華頓商學院最熱門的一堂行銷課！6大關鍵感染力，瞬間引爆大流行【暢銷新裝版】**](https://www.books.com.tw/products/0010893715)
+
+`Business & Finance` `Marketing/ Advertising/ Sales` `Marketing` `9789571389585`
+
+華頓商學院最熱門的行銷課
+葛拉威爾《引爆趨勢》實踐篇
+《紐約時報》、亞馬遜書店暢銷榜TOP 1
+
+重要的不是意見領袖，而是訊息本身。
+不用砸大錢、不用特別有創意，
+只要方法正確，平凡事物也能引發大流行！
+
+6大感染力法則STEPPS，
+顛覆你對行銷與流行的所有想像！
 
 > [**影響力：說服的六大武器，讓人在不知不覺中受擺佈【個案升級版】**](https://www.books.com.tw/products/0010718186)
 
@@ -433,6 +498,24 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 AMAZON年度總榜TOP 5
 全球34國語言翻譯
 
+> [**黑馬思維：哈佛最推崇的人生計畫，教你成就更好的自己**](https://www.books.com.tw/products/0010819494)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789861343419`
+
+「為什麼有些人突然橫空出世，達到非凡成就？答案就在這本書中。」──丹尼爾‧品克（《未來在等待的人才》作者）
+
+一個改變無數人生涯抉擇的權威研究：
+哈佛大學「黑馬計畫」，
+兩位曾中輟休學的「黑馬教授」，
+指引你找到面對未來的最佳路徑，
+成為最優秀的自己！
+
+★甫出版即登上《華爾街日報》暢銷榜，各領域黑馬推薦必讀
+★源於哈佛大學「黑馬計畫」研究，據豐富案例提出具體觀點與研究成果
+★提出四階段「黑馬思維」，引導每個人找到獨一無二、最能發揮潛能的生涯選擇
+★無論在職場或學校，如果你覺得找不到方向、跟體制格格不入，這本書將會改變你的人生
+★陶德‧羅斯博士提出哈佛教育學院最推崇的八大概念之一，TED、Google與全美各大企業紛紛邀請演講推廣
+
 > [**盲點：哈佛、華頓商學院課程選讀，為什麼傳統決策會失敗，而我們可以怎麼做？**](https://www.books.com.tw/products/0010884654)
 
 `Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789861343723`
@@ -446,6 +529,18 @@ AMAZON年度總榜TOP 5
 ‧《富比世》書評盛讚：商界人士必讀之作
 ‧榮獲商業書籍大獎Axiom Business Book Awards銀獎
 
+> [**刻意練習：原創者全面解析，比天賦更關鍵的學習法**](https://www.books.com.tw/products/0010752714)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789861754604`
+<br>
+`Psychlogical Inspirational` `Personality Talents/ Potential Development`
+
+國際媒體、全球暢銷書、頂尖教練爭相引用的「刻意練習法」！
+這可能是人類第一次擁有關於如何練成天才的統一理論！
+
+找到天賦，不如找對方法！
+天才與庸才之間的差別不在基因、不在天分，在「刻意練習」！
+
 > [**競合策略：商業運作的真實力量（二十周年經典版）**](https://www.books.com.tw/products/0010683961)
 
 `Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789868980273`
@@ -456,6 +551,42 @@ AMAZON年度總榜TOP 5
 你非懂不可！──《經濟學人》
 本書大大提升了我的思考與決策高度！──Kenneth D. Brody，美國銀行家暨高盛合夥人
 運用範圍超乎想像！──Kenneth J. Arrow，諾貝爾經濟學獎得主
+
+> [**底層邏輯：看清這個世界的底牌**](https://www.books.com.tw/products/0010919211)
+
+`Business & Finance` `Social Work Skills` `Work Philosophy` `9786263350717`
+
+你真的相信眼睛所看到的一切嗎？
+
+事實是最不容易產生爭議的客觀存在嗎？
+或許，我們對事實的瞭解，還不夠全面。
+或許，我們是被表象或經驗欺騙、迷惑，導致看不透事情的本質。
+
+唯有透過「底層邏輯+環境變數」，
+才能讓你在千變萬化的世界中，認清所有真相！
+
+> [**底層邏輯2：帶你升級思考，挖掘數字裡蘊含的商業寶藏**](https://www.books.com.tw/products/0010969169)
+
+`Business & Finance` `Social Work Skills` `Work Philosophy` `9786263742734`
+
+看似複雜的商業模式，用幾個簡單的數字便可輕鬆破解！
+
+假如閱讀完《底層邏輯》，你掌握了是非對錯、思考問題、個體進化、理解他人和社會協作五方面的底層邏輯。
+
+那麼現在《底層邏輯2》，將用簡單的數字和思維，讓你看清世界的規則，看透商業的本質，破解商業難題，收穫屬於你的成功！
+
+張旭無限教室線上課程平台創辦人　數學老師張旭（張舜為）――審定
+資深企業講師、職場作家、廣播主持人　謝文憲――專文推薦
+
+期待大家都能在被妖魔化的數學裡，找到數學可愛的一面，它會讓你賺大錢，並且實現商業的最高價值：服務人群。――謝文憲
+
+> [**為什麼我們這樣生活，那樣工作？**](https://www.books.com.tw/products/0010560033)
+
+`Business & Finance` `Social Work Skills` `Work Philosophy` `9789862133736`
+
+全球瘋行的習慣改造指南
+讓你不再好習慣學不會、壞習慣改不掉
+《紐約時報》排行榜、amazon書店暢銷書
 
 > [**為何我們總是想得太多，卻做得太少：擊敗拖延、惰性、完美主義，讓行動力翻倍的高效習慣法則**](https://www.books.com.tw/products/0010879885)
 
@@ -516,6 +647,19 @@ AMAZON年度總榜TOP 5
 ★第一名企業領袖麥斯威爾解析逆境的經典暢銷書
 ★「有了這本書，你將永遠不再害怕失敗。」──Famous Dave’s創辦人戴夫．安德森
 
+> [**如何改變一個人：華頓商學院教你消除抗拒心理，從心擁抱改變**](https://www.books.com.tw/products/0010894579)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9789571390123`
+
+遇到反彈，99%的人會推得更用力。
+最高明的說服，
+不是使勁猛推，而是移除改變的障礙，
+讓對方自己說服自己。
+
+《財星》推薦年度必讀書目。
+《瘋潮行銷》暢銷冠軍書作者最新力作。
+《從A到A+》、《為什麼我們這樣生活，那樣工作？》等重量級作者暨媒體佳評如潮。
+
 > [**輕鬆駕馭意志力（暢銷10年紀念新版）：史丹佛大學最受歡迎的心理素質課**](https://www.books.com.tw/products/0010903362)
 
 `Business & Finance` `Successful Methods` `Self-growth` `9789861343969`
@@ -527,6 +671,25 @@ AMAZON年度總榜TOP 5
 ★《商業周刊》1290期報導！
 ★亞馬遜書店讀者讚嘆：「真想給它10顆星！」「這輩子我都會用它！」「對我來說最實用的一本書！」
 ★少女凱倫、文森說書、何立安、宋怡慧、林長揚、邱奕霖、洪瀞、海苔熊、陳沛穎、陳彥博、楊斯棓、劉奕酉──盛讚推薦
+
+> [**原子習慣：細微改變帶來巨大成就的實證法則**](https://www.books.com.tw/products/0010822522)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9789861755267`
+<br>
+`Psychlogical Inspirational` `Personality Talents/ Potential Development`
+
+每天都進步1%，一年後，你會進步37倍；
+每天都退步1%，一年後，你會弱化到趨近於0！
+你的一點小改變、一個好習慣，將會產生複利效應，
+如滾雪球般，為你帶來豐碩的人生成果！
+
+一出版立刻風行全球，
+企業界、運動界、教育界、瘦身界都在用的習慣養成實作指南！
+
+★Amazon、《紐約時報》《華爾街日報》《今日美國報》《出版人週刊》暢銷書！
+★商業雜誌《Fast Company》評為2018年7本最佳商業書之一！
+★《商業內幕》（Business Insider）網站選為2018年最佳自我成長書籍！
+★職涯網站The Muse推薦：最能幫助你增進工作效率的書！
 
 > [**無限賽局：翻轉思維框架，突破勝負盲點，贏得你想要的未來**](https://www.books.com.tw/products/0010969021)
 
@@ -721,6 +884,24 @@ AMAZON年度總榜TOP 5
 
 ## Psychlogical Inspirational
 
+> [**蛤蟆先生去看心理師【慶功典藏版】（暢銷500萬冊！英國心理諮商經典，附《蛤蟆先生勇氣防水貼》）**](https://www.books.com.tw/products/0010992222)
+
+`Psychlogical Inspirational` `Counseling & Treatments` `4710415389640`
+
+★  暢銷 250,000 冊慶功典藏版  ★
+★  附本版專屬《蛤蟆先生勇氣防水貼 》  ★
+★  童話 × 心理學 × 經典  ★
+
+2022年繁體中文版銷售至今熱度不減，全球更突破500萬冊！
+
+博客來年度分類榜 TOP 1 
+誠品年度分類榜 TOP 1
+霸榜各大電子書通路 TOP 1
+
+圖書館最想借閱的書 TOP 2
+金石堂年度分類榜 TOP 3 
+金石堂十大影響力好書
+
 > [**被討厭的勇氣：自我啟發之父「阿德勒」的教導**](https://www.books.com.tw/products/0010653153)
 
 `Psychlogical Inspirational` `Psychology` `Classic School/ Master Thoughts` `9789861371955`
@@ -741,6 +922,31 @@ AMAZON年度總榜TOP 5
 ■深度探討《被討厭的勇氣》中的許多概念，讓阿德勒的思想更具實踐性！
 ■若說《被討厭的勇氣》是了解阿德勒思想的「地圖」，本書就是帶領你實踐阿德勒思想、踏上幸福之路的「指南針」！
 ■《被討厭的勇氣》日韓均熱銷破百萬冊，臺灣連續100週高踞排行榜，熱銷40萬冊以上；雙書全亞洲熱銷破350萬冊，紀錄持續更新中！
+
+[_back_](#table-of-contents)
+
+---
+
+## Test Book
+
+> [**零秒速讀法：打破「精讀」幻想，教你跳躍閱讀、高效率的讀書法！**](https://www.books.com.tw/products/0010796669)
+
+`Test Book` `Learning Methods` `9789578799332`
+<br>
+`Study Guides` `Study Skills`
+
+《雪球速讀法》作者最新力作！
+將速讀技巧應用於考試
+最徹底、毫無浪費，追求高效率的速讀法
+證照檢定、大小考試、職場進修通通搞定
+
+> [**雪球速讀法：累積雜學資料庫，達到看書十倍速，大考小考通通難不倒**](https://www.books.com.tw/products/0011011965)
+
+`Test Book` `Learning Methods` `9789862591062`
+
+速讀能力 = 速讀技巧 × 雜學資料庫（知識、資訊、經驗）
+給所有對速讀抱持幻想的新手！
+一起跟著宇都出大師的腳步，如滾雪球一般迅速累積資料庫！
 
 [_back_](#table-of-contents)
 
