@@ -884,7 +884,7 @@ AMAZON年度總榜TOP 5
 
 ## Psychlogical Inspirational
 
-> [**蛤蟆先生去看心理師【慶功典藏版】（暢銷500萬冊！英國心理諮商經典，附《蛤蟆先生勇氣防水貼》）**](https://www.books.com.tw/products/0010992222)
+> [**蛤蟆先生去看心理師【慶功典藏版】（暢銷500萬冊！英國心理諮商經典）**](https://www.books.com.tw/products/0010992222)
 
 `Psychlogical Inspirational` `Counseling & Treatments` `4710415389640`
 
