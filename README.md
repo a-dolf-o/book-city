@@ -20,6 +20,7 @@
     - [**Social Work Skills**](#social-work-skills)
     - [**Successful Methods**](#successful-methods)
   - [**Children's Books/ Adolescent Literature**](#childrens-books-adolescent-literature)
+  - [**Computer Information**](#computer-information)
   - [**Humanities and Social Sciences**](#humanities-and-social-sciences)
   - [**Natural Science**](#natural-science)
   - [**Psychlogical Inspirational**](#psychlogical-inspirational)
@@ -482,6 +483,22 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 ★美國亞馬遜書店超過400則5星好評
 ★麥斯威爾繼《與人同贏》、《與人連結》、《精準成長》後另一暢銷經典
 
+> [**時間最短化，成果最大化的法則：１天安裝１個成功人士的「思維演算法」45天（約1.5月）腦袋將徹底更新！**](https://www.books.com.tw/products/0010974528)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9786267406168`
+
+為什麼，那個人的成果
+能夠比我多出150倍？
+
+該如何不靠幹勁，
+也能輕鬆愉快地持續做出成果？
+
+✮出版至今，蟬聯Amazon商業榜TOP1
+✮博客來、金石堂當月選書！
+✮商務人士必讀的年度話題書！
+✮全世界「工作做得好的人」、「快速成長的人」唯一的共通思維。
+✮彩色拉頁：三級跳「思維演算法」訓練
+
 > [**決斷2秒間：擷取關鍵資訊，發揮不假思索的力量（典藏紀念版）**](https://www.books.com.tw/products/0010691640)
 
 `Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789571363936`
@@ -787,6 +804,28 @@ AMAZON年度總榜TOP 5
 
 ---
 
+## Computer Information
+
+> [**決斷的演算：預測、分析與好決定的11堂邏輯課（三版）**](https://www.books.com.tw/products/0010942182)
+
+`Computer Information` `Introduction/ Technological Trends` `Artificial Intelligence/ Machine Learning` `9786269651771`
+
+●特別說明　本書第一、二版與本版（第三版）中文書名相同，內容沒有增加，本版主要再行修潤與校對。
+
+遠比賽局理論更強大、更全面的決策思維！
+亞馬遜書店一上市，直取「電腦科學類」暢銷榜第1名，
+並擠下《快思慢想》榮登「認知科學類」暢銷榜第1名，
+出版多年，長踞「商務決策與問題解決類」榜單Top 50。
+2017年「台灣人工智慧年會」暨「台灣資料科學年會」紀念贈書
+《麻省理工學院技術評論》年度最佳書籍，亞馬遜書店年度最佳科學書籍
+
+【亞馬遜書店數千則讀者肯定，給予平均４．５顆星超高好評！】
+＊＊＊
+
+[_back_](#table-of-contents)
+
+---
+
 ## Humanities and Social Sciences
 
 > [**槍炮、病菌與鋼鐵：人類社會的命運‧25週年暢銷紀念版**](https://www.books.com.tw/products/0010829817)
@@ -814,6 +853,15 @@ AMAZON年度總榜TOP 5
 —— 哈拉瑞
 
 《21世紀的21堂課》全新修訂改版！
+
+> [**如何閱讀一本書【臺灣商務70週年典藏紀念版】(三版)**](https://www.books.com.tw/products/0010736991)
+
+`Humanities and Social Sciences` `Reading/Publishing/Library Science` `Reading` `9789570530629`
+
+這本書在1940年出版，1972年大幅增訂改寫為新版。
+不論什麼時候讀，都不能不嘆服作者對閱讀用心之深、視野之廣。
+不懂閱讀的人，初探閱讀的人，讀這本書可以節省冤枉路。
+對閱讀有所體會的人，讀這本書可以有更深的印證與領悟。
 
 > [**昨日世界：找回文明新命脈（暢銷慶祝版）**](https://www.books.com.tw/products/0010845709)
 
