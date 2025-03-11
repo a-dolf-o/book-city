@@ -130,6 +130,8 @@ You are what you write.
 
 [_back_](#table-of-contents)
 
+---
+
 #### Economics
 
 > [**一本書讀懂經濟學：50個經濟學關鍵概念，教你想通商業的原理、金錢的道理**](https://www.books.com.tw/products/0010932824)
@@ -188,6 +190,8 @@ You are what you write.
 
 [_back_](#table-of-contents)
 
+---
+
 #### Public/ Life Economics
 
 > [**誘因設計：精準傳遞訊號，讓人照著你的想法行動**](https://www.books.com.tw/products/0010971532)
@@ -218,6 +222,8 @@ You are what you write.
 ◎ 台大經濟系副教授馮勃翰 審定
 
 [_back_](#table-of-contents)
+
+---
 
 ### Investment & Financial Management
 
@@ -268,6 +274,8 @@ BookAuthority評選2022年最佳財經書
 無論入門者或是老手，都能從大師洞見中找出自己的致勝方法！
 
 [_back_](#table-of-contents)
+
+---
 
 ### Management & Leadership
 
@@ -366,6 +374,8 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 
 [_back_](#table-of-contents)
 
+---
+
 ### Marketing/ Advertising/ Sales
 
 > [**看不見的影響力： 華頓商學院教你看清自己如何受影響，做最好的決定【暢銷慶祝版】**](https://www.books.com.tw/products/0010903616)
@@ -434,6 +444,8 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 
 [_back_](#table-of-contents)
 
+---
+
 ### Social Work Skills
 
 #### Communication
@@ -485,6 +497,8 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 ★美國亞馬遜書店讀者評價近5顆星★
 
 [_back_](#table-of-contents)
+
+---
 
 #### Negotiations
 
@@ -540,6 +554,8 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 
 [_back_](#table-of-contents)
 
+---
+
 #### Relationships
 
 > [**與人同贏［全球暢銷經典］：人，是世上最值得投資的資產！領導學大師掌握職場、家庭與人際的25個共贏原則**](https://www.books.com.tw/products/0010780178)
@@ -552,6 +568,8 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 ★初版台灣銷售已突破100,000冊★
 
 [_back_](#table-of-contents)
+
+---
 
 #### Thinking & Deciding & Creating
 
@@ -766,6 +784,8 @@ AMAZON年度總榜TOP 5
 
 [_back_](#table-of-contents)
 
+---
+
 #### Time Management
 
 > [**80/20法則：商場獲利與生活如意的成功法則（20週年擴充新版）**](https://www.books.com.tw/products/0010806109)
@@ -798,6 +818,8 @@ AMAZON年度總榜TOP 5
 ──喬許．戴維斯博士Josh Davis, Ph.D
 
 [_back_](#table-of-contents)
+
+---
 
 #### Work Philosophy
 
@@ -886,6 +908,8 @@ AMAZON年度總榜TOP 5
 
 [_back_](#table-of-contents)
 
+---
+
 ### Successful Methods
 
 #### Career Planning
@@ -902,6 +926,8 @@ AMAZON年度總榜TOP 5
 ★讀者盛讚：「這是麥斯威爾的書裡我最喜歡的！」
 
 [_back_](#table-of-contents)
+
+---
 
 #### Get Rich
 
@@ -930,6 +956,8 @@ AMAZON年度總榜TOP 5
 已翻譯超過15種語言！
 
 [_back_](#table-of-contents)
+
+---
 
 #### Self-growth
 
