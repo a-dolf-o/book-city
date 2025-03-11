@@ -151,6 +151,14 @@ You are what you write.
 兩位諾貝爾經濟學獎得主耗時5年最新力作
 這是影響你我生活最重要的經濟學新觀點！
 
+> [**誰說人是理性的！：消費高手與行銷達人都要懂的行為經濟學**](https://www.books.com.tw/products/0010788078)
+
+`Business & Finance` `Economics & Trends` `Economics` `9789864794225`
+
+《紐約時報》、《華爾街日報》暢銷書
+Amazon.com商業理財百大暢銷書
+諾貝爾經濟學獎得主、各界學者、企業家、各大媒體一致盛讚！
+
 > [**橡皮擦計畫：兩位天才心理學家，一段改變世界的情誼**](https://www.books.com.tw/products/0010782516)
 
 `Business & Finance` `Economics & Trends` `Economics` `9789866613944`
@@ -193,6 +201,15 @@ You are what you write.
 ---
 
 #### Public/ Life Economics
+
+> [**誤信（博客來獨家書衣版）：為什麼理性的人會相信不理性的事**](https://www.books.com.tw/products/0011003518)
+
+`Business & Finance` `Economics & Trends` `Public/ Life Economics` `4713510944837`
+<br>
+`Humanities and Social Sciences` `Mass Communication/Media Literacy` `Media Literacy`
+
+暢銷書《金錢心理學》、《誰說人是理性的！》作者丹‧艾瑞利最新力作！
+深入探討人性如何助長假消息蔓延增生，並引發社會危機！
 
 > [**誘因設計：精準傳遞訊號，讓人照著你的想法行動**](https://www.books.com.tw/products/0010971532)
 
@@ -272,6 +289,19 @@ BookAuthority評選2022年最佳財經書
 傳奇大師精鍊投資最重要的事，
 加值4位頂尖投資專家評注筆記，
 無論入門者或是老手，都能從大師洞見中找出自己的致勝方法！
+
+> [**金錢心理學：打破你對金錢的迷思，學會聰明花費**](https://www.books.com.tw/products/0010785897)
+
+`Business & Finance` `Investment & Financial Management` `Planning` `Personal Finance` `9789864794171`
+
+花錢是每個人天天在做的事
+吃喝玩樂、交際應酬、買車買樓
+為什麼花、要花多少、值不值得？
+你知道自己的金錢心理嗎？
+
+★★★★Amazon.com商業理財百大暢銷書
+《商業內幕》（Business Insider）2017年最佳商業書
+心理學與行為經濟學翹楚丹‧艾瑞利「吸金」力作
 
 [_back_](#table-of-contents)
 
@@ -727,6 +757,14 @@ AMAZON年度總榜TOP 5
 ○明明已預習要發表的內容，
 一上臺卻總是忘光光，
 愈緊張就愈說不出話來？
+
+> [**不理性的力量：掌握工作、生活與愛情的行為經濟學**](https://www.books.com.tw/products/0010787226)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789864794416`
+
+《誰說人是理性的！》最發人深省的續集
+《紐約時報》、《出版人週刊》、《科克斯評論》專文推薦
+★★★★Amazon.com商業理財百大暢銷書
 
 > [**超級思維：跨界、跨域、跨能，突破思考盲點，提升解決能力的心智模式大全**](https://www.books.com.tw/products/0010884979)
 
