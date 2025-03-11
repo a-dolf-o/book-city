@@ -14,11 +14,23 @@
   - [**Art Design**](#art-design)
   - [**Business & Finance**](#business--finance)
     - [**Economics & Trends**](#economics--trends)
+      - [**Concepts/ Trends**](#concepts-trends)
+      - [**Economics**](#economics)
+      - [**Public/ Life Economics**](#public-life-economics)
     - [**Investment & Financial Management**](#investment--financial-management)
     - [**Management & Leadership**](#management--leadership)
     - [**Marketing/ Advertising/ Sales**](#marketing-advertising-sales)
     - [**Social Work Skills**](#social-work-skills)
+      - [**Communication**](#communication)
+      - [**Negotiations**](#negotiations)
+      - [**Relationships**](#relationships)
+      - [**Thinking & Deciding & Creating**](#thinking--deciding--creating)
+      - [**Time Management**](#time-management)
+      - [**Work Philosophy**](#work-philosophy)
     - [**Successful Methods**](#successful-methods)
+      - [**Career Planning**](#career-planning)
+      - [**Get Rich**](#get-rich)
+      - [**Self-growth**](#self-growth)
   - [**Children's Books/ Adolescent Literature**](#childrens-books-adolescent-literature)
   - [**Computer Information**](#computer-information)
   - [**Humanities and Social Sciences**](#humanities-and-social-sciences)
@@ -72,6 +84,8 @@ You are what you write.
 
 ### Economics & Trends
 
+#### Concepts/ Trends
+
 > [**引爆趨勢：小改變如何引發大流行（全球暢銷20週年典藏精裝版）**](https://www.books.com.tw/products/0010853939)
 
 `Business & Finance` `Economics & Trends` `Concepts/ Trends` `9789571381459`
@@ -113,6 +127,10 @@ You are what you write.
 
 「我窮盡畢生之力抵抗全球毀滅性的無知，傳播基於事實的世界觀。
 這本書是我的最後一役，是我設法影響世界的最後努力。」──漢斯．羅斯林
+
+[_back_](#table-of-contents)
+
+#### Economics
 
 > [**一本書讀懂經濟學：50個經濟學關鍵概念，教你想通商業的原理、金錢的道理**](https://www.books.com.tw/products/0010932824)
 
@@ -167,6 +185,10 @@ You are what you write.
 ★作者曾任歐巴馬經濟顧問、傳奇基金經理人，本書是其最重要的著作
 ★新版唯一中譯本，國內外專家、學者與教授共同推薦
 ★掌握經濟指標！一本所有投資人必讀的經濟思想史
+
+[_back_](#table-of-contents)
+
+#### Public/ Life Economics
 
 > [**誘因設計：精準傳遞訊號，讓人照著你的想法行動**](https://www.books.com.tw/products/0010971532)
 
@@ -414,6 +436,8 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 
 ### Social Work Skills
 
+#### Communication
+
 > [**影響力：讓人乖乖聽話的說服術(全新增訂版)**](https://www.books.com.tw/products/0010923407)
 
 `Business & Finance` `Social Work Skills` `Communication` `9786269528813`
@@ -459,6 +483,10 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 ★《紐約時報》、《華爾街日報》經典暢銷書★
 ★全球授權超過15個國家、影響逾3000萬人★
 ★美國亞馬遜書店讀者評價近5顆星★
+
+[_back_](#table-of-contents)
+
+#### Negotiations
 
 > [**哈佛這樣教談判力：增強優勢，談出利多人和的好結果**](https://www.books.com.tw/products/0010590581)
 
@@ -510,6 +538,10 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 ★★★獲得國際衝突預防與解決協會「傑出圖書獎」★★★
 ★★★《與成功有約》作者史蒂芬．柯維、領導學之父華倫．班尼斯等大咖重磅推薦★★★
 
+[_back_](#table-of-contents)
+
+#### Relationships
+
 > [**與人同贏［全球暢銷經典］：人，是世上最值得投資的資產！領導學大師掌握職場、家庭與人際的25個共贏原則**](https://www.books.com.tw/products/0010780178)
 
 `Business & Finance` `Social Work Skills` `Relationships` `9789867778147`
@@ -518,6 +550,10 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 ★一上市，全球授權超過13種語言★
 ★美國亞馬遜書店讀者評價近5顆星★
 ★初版台灣銷售已突破100,000冊★
+
+[_back_](#table-of-contents)
+
+#### Thinking & Deciding & Creating
 
 > [**停損的勝算：世界撲克冠軍教你精準判斷何時放棄，反而贏更多**](https://www.books.com.tw/products/0010992791)
 
@@ -728,6 +764,10 @@ AMAZON年度總榜TOP 5
 本書大大提升了我的思考與決策高度！──Kenneth D. Brody，美國銀行家暨高盛合夥人
 運用範圍超乎想像！──Kenneth J. Arrow，諾貝爾經濟學獎得主
 
+[_back_](#table-of-contents)
+
+#### Time Management
+
 > [**80/20法則：商場獲利與生活如意的成功法則（20週年擴充新版）**](https://www.books.com.tw/products/0010806109)
 
 `Business & Finance` `Social Work Skills` `Time Management` `9789862139424`
@@ -756,6 +796,10 @@ AMAZON年度總榜TOP 5
 而是懂得調整一些做法，讓自己每天都能有穩定高工作成效的時段，
 留一點時間來品味生活、從容過日子。』
 ──喬許．戴維斯博士Josh Davis, Ph.D
+
+[_back_](#table-of-contents)
+
+#### Work Philosophy
 
 > [**底層邏輯：看清這個世界的底牌**](https://www.books.com.tw/products/0010919211)
 
@@ -844,6 +888,8 @@ AMAZON年度總榜TOP 5
 
 ### Successful Methods
 
+#### Career Planning
+
 > [**找對夢想 [全球暢銷經典]：世界領導學大師的10大關鍵問題，教你設定目標，再實現夢想**](https://www.books.com.tw/products/0010984273)
 
 `Business & Finance` `Successful Methods` `Career Planning` `9786267366745`
@@ -854,6 +900,10 @@ AMAZON年度總榜TOP 5
 
 ★美國亞馬遜書店4.7顆星評價，超過500個5星好評
 ★讀者盛讚：「這是麥斯威爾的書裡我最喜歡的！」
+
+[_back_](#table-of-contents)
+
+#### Get Rich
 
 > [**心態致富：從心態、行為到習慣，創造財富的69堂關鍵常識養成課**](https://www.books.com.tw/products/0010852483)
 
@@ -878,6 +928,10 @@ AMAZON年度總榜TOP 5
 理財慢車道的重心是就業；致富快車道的核心是事業
 國際暢銷書，銷售百萬冊！
 已翻譯超過15種語言！
+
+[_back_](#table-of-contents)
+
+#### Self-growth
 
 > [**與逆境同行 [全球暢銷經典]：領導學大師的16堂失敗訓練課，讓你翻轉慣性思維、突破困局**](https://www.books.com.tw/products/0010987670)
 
