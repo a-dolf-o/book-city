@@ -13,6 +13,7 @@
 
   - [**Art Design**](#art-design)
   - [**Business & Finance**](#business--finance)
+    - [**Biography**](#biography)
     - [**Economics & Trends**](#economics--trends)
       - [**Concepts/ Trends**](#concepts-trends)
       - [**Economics**](#economics)
@@ -81,6 +82,26 @@ You are what you write.
 ---
 
 ## Business & Finance
+
+### Biography
+
+> [**窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學**](https://www.books.com.tw/products/0010987407)
+
+`Business & Finance` `Biography` `Biography of Characters` `9786267366882`
+<br>
+`Business & Finance` `Investment & Financial Management` `Investment Science`
+
+★紀念．追思．典藏．傳承★
+傳奇投資哲學家查理．蒙格
+最精彩演講、箴言、思想精華匯集一冊
+
+股神巴菲特於2024年股東信的追思：
+「查理是波克夏的建築師，我只是負責帶領施工；
+日復一日完成他畫的藍圖。」
+
+[_back_](#table-of-contents)
+
+---
 
 ### Economics & Trends
 
@@ -302,6 +323,17 @@ BookAuthority評選2022年最佳財經書
 ★★★★Amazon.com商業理財百大暢銷書
 《商業內幕》（Business Insider）2017年最佳商業書
 心理學與行為經濟學翹楚丹‧艾瑞利「吸金」力作
+
+> [**富爸爸，窮爸爸【25週年紀念版】**](https://www.books.com.tw/products/0010935466)
+
+`Business & Finance` `Investment & Financial Management` `Planning` `Personal Finance` `9789865064679`
+
+21世紀最偉大的理財書，暢銷全球逾二十五年，改變數千萬人的人生！
+
+★暢銷全球25年！已翻譯成51國語言，銷售109個國家，暢銷逾40,000,000冊！
+★《紐約時報》、《華爾街日報》、《商業周刊》、《今日美國》最佳暢銷書
+★《紐約時報》暢銷書排行榜第一名，在榜長達七年
+★長踞美國亞馬遜排行榜
 
 [_back_](#table-of-contents)
 
@@ -741,6 +773,13 @@ Thinkers50 #18、新世代領導力大師西奈克首創黃金圈理論
 ○明明已預習要發表的內容，
 一上臺卻總是忘光光，
 愈緊張就愈說不出話來？
+
+> [**一流的人讀書，都在哪裡畫線？：菁英閱讀的深思考技術**](https://www.books.com.tw/products/0010895146)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789863986850`
+
+日本Amazon五顆星評價，好評滿載！
+日本第一書評家土井英司公開選書、讀書、建立知識架構的心法
 
 > [**不理性的力量：掌握工作、生活與愛情的行為經濟學**](https://www.books.com.tw/products/0010787226)
 
