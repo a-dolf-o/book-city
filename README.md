@@ -13,7 +13,6 @@
 
   - [**Art Design**](#art-design)
   - [**Business & Finance**](#business--finance)
-    - [**Biography**](#biography)
     - [**Economics & Trends**](#economics--trends)
       - [**Concepts/ Trends**](#concepts-trends)
       - [**Economics**](#economics)
@@ -83,13 +82,16 @@ You are what you write.
 
 ## Business & Finance
 
-### Biography
+### Economics & Trends
 
-> [**窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學**](https://www.books.com.tw/products/0010987407)
+#### Concepts/ Trends
 
-`Business & Finance` `Biography` `Biography of Characters` `9786267366882`
-<br>
-`Business & Finance` `Investment & Financial Management` `Investment Science`
+> [**窮查理的普通常識（博客來獨家燙金硬殼精裝版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學**](https://www.books.com.tw/products/0010987406)
+
+`Business & Finance` `Economics & Trends` `Concepts/ Trends` `9786267366882`
+
+───首批限量───
+博客來獨家／燙金硬殼精裝版
 
 ★紀念．追思．典藏．傳承★
 傳奇投資哲學家查理．蒙格
@@ -98,14 +100,6 @@ You are what you write.
 股神巴菲特於2024年股東信的追思：
 「查理是波克夏的建築師，我只是負責帶領施工；
 日復一日完成他畫的藍圖。」
-
-[_back_](#table-of-contents)
-
----
-
-### Economics & Trends
-
-#### Concepts/ Trends
 
 > [**引爆趨勢：小改變如何引發大流行（全球暢銷20週年典藏精裝版）**](https://www.books.com.tw/products/0010853939)
 
