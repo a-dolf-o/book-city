@@ -375,7 +375,6 @@ BookAuthority評選2022年最佳財經書
 `Business & Finance` `Marketing/ Advertising/ Sales` `Marketing` `9786263742147`
 
 微調文字帶來巨大成功的科學發現
- 
 換個說法，結果大不同。
 從海量文本發掘6種文字的魔力，
 讓你的請求難以抗拒、意見聽起來像事實、
@@ -396,7 +395,6 @@ BookAuthority評選2022年最佳財經書
 重要的不是意見領袖，而是訊息本身。
 不用砸大錢、不用特別有創意，
 只要方法正確，平凡事物也能引發大流行！
-
 6大感染力法則STEPPS，
 顛覆你對行銷與流行的所有想像！
 
@@ -431,6 +429,15 @@ BookAuthority評選2022年最佳財經書
 
 #### Communication
 
+> [**讓人從聽你說話到聽你的話：頂流人士都在用，一舉打動人心的最強說話術！**](https://www.books.com.tw/products/0010922324)
+
+`Business & Finance` `Social Work Skills` `Communication` `9786263292253`
+
+再也不必因為「無法傳達」、「前進不了」、「談不攏」而煩惱，
+獻給所有想習得領導能力的人士。
+《零秒思考力》作者赤羽雄二的最強說話術，
+只要三個步驟，就能讓一切動起來！
+
 > [**影響力：讓人乖乖聽話的說服術(全新增訂版)**](https://www.books.com.tw/products/0010923407)
 
 `Business & Finance` `Social Work Skills` `Communication` `9786269528813`
@@ -442,10 +449,6 @@ BookAuthority評選2022年最佳財經書
 > [**鋪梗力：影響力教父最新研究與技術，在開口前就說服對方**](https://www.books.com.tw/products/0010770327)
 
 `Business & Finance` `Social Work Skills` `Communication` `9789571371979`
-
-一出手便是經典！
-｜傳奇暢銷書《影響力》作者羅伯特．席爾迪尼博士｜
-————最新「說服」科學研究————
 
 ◤有效的說服方式，祕訣不在於訊息本身，
 而在於訊息傳達之前的關鍵時刻。◢
