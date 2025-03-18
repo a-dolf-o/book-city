@@ -17,6 +17,7 @@
       - [**Concepts/ Trends**](#concepts-trends)
       - [**Economics**](#economics)
       - [**Public/ Life Economics**](#public-life-economics)
+    - [**E-commerce**](#e-commerce)
     - [**Investment & Financial Management**](#investment--financial-management)
     - [**Management & Leadership**](#management--leadership)
     - [**Marketing/ Advertising/ Sales**](#marketing-advertising-sales)
@@ -200,6 +201,20 @@ Amazon.com商業理財百大暢銷書
 
 現場實驗 × 行為經濟學 × 賽局理論，完全剖析各種誘因設計的底層邏輯
 
+> [**情緒賽局：揭開決策背後的情緒機制，8位諾貝爾經濟學獎得主盛讚，提高人生勝率的 23項贏家邏輯【暢銷典藏版】**](https://www.books.com.tw/products/0010950294)
+
+`Business & Finance` `Economics & Trends` `Public/ Life Economics` `9786267191903`
+
+生活即賽局，
+問題是：如何看懂局，甚至成為造局者？
+全球賽局權威──溫特教授，
+以職場、情場、商場等豐富實例，
+教你把情緒納為決策籌碼，
+在人生戰場中，掌握超乎想像的優勢！
+
+★本書入選國家文官學院「每月一書」
+★8位諾貝爾經濟學獎得主盛讚推薦
+
 > [**不當行為：行為經濟學之父教你更聰明的思考、理財、看世界**](https://www.books.com.tw/products/0010716217)
 
 `Business & Finance` `Economics & Trends` `Public/ Life Economics` `9789861342771`
@@ -211,6 +226,21 @@ Amazon.com商業理財百大暢銷書
 ◎ 《金融時報》、麥肯錫年度最具影響力6本書之一
 ◎ 諾貝爾經濟學獎得主 丹尼爾‧康納曼、羅伯‧席勒  共同推薦
 ◎ 台大經濟系副教授馮勃翰 審定
+
+[_back_](#table-of-contents)
+
+---
+
+### E-commerce
+
+> [**向億萬電商社長學網路行銷：從廣告規劃、文案撰寫到市場分析、投報評估全面解析！**](https://www.books.com.tw/products/0010949924)
+
+`Business & Finance` `E-commerce` `Network Marketing/ Trend Opportunities` `9786263296848`
+
+★日本亞馬遜4.5顆星極度推薦！
+★霸榜逾半年日本亞馬遜『商品開發』部門第1名！
+★日本亞馬遜‧樂天網站『行銷』部門第1名！
+★發售至今熱銷超過3萬冊！
 
 [_back_](#table-of-contents)
 
@@ -295,6 +325,16 @@ BookAuthority評選2022年最佳財經書
 《金融時報》、《紐約時報》、《富比士》、《商業週刊》、《華爾街日報》
 暢銷商管書，全球銷售至少10萬冊的商管書經典
 
+> [**億萬社長高獲利經營術：電商老闆賣愈少、賺愈多，還能活過零營收的祕密**](https://www.books.com.tw/products/0010929749)
+
+`Business & Finance` `Management & Leadership` `Business Strategies` `9786267099575`
+
+一堂全日本老闆搶修的經營課
+讀者大讚：洩露這麼珍貴的know-how，沒問題嗎？
+
+★打敗《原則》，榮獲「2021年 Startup‧Venture業界工作者商業選書」大賞
+★橫掃、蟬聯日本7大排行榜的經營冠軍書
+
 > [**思辨賽局【修訂版】：看穿局勢、創造優勢的策略智慧**](https://www.books.com.tw/products/0010992048)
 
 `Business & Finance` `Management & Leadership` `Business Strategies` `9786267492116`
@@ -309,6 +349,17 @@ BookAuthority評選2022年最佳財經書
 暢銷全球20年‧全新增訂版
 獲經濟部中小企業處金書獎
 
+> [**老闆把你當心腹，部屬一路跟隨的「主管假面思維」：別鬧了！工作就是為了拿高薪、升職快，絕不是來當爛好人、被喜歡**](https://www.books.com.tw/products/0010918280)
+
+`Business & Finance` `Management & Leadership` `Business Strategies` `9789865480714`
+
+★日本銷量突破29萬冊★
+
+老闆把你當心腹，部屬一路跟隨，怎麼做？
+活用心理大師榮格的「人格面具」，五個重點，讓你成為優秀主管！
+工作就是為了拿高薪、升職快！絕不是當爛好人……
+兩千家上市企業都在用的「識學管理法」！
+
 > [**從0到1：打開世界運作的未知祕密，在意想不到之處發現價值**](https://www.books.com.tw/products/0010929022)
 
 `Business & Finance` `Management & Leadership` `Entrepreneurship` `9789862419533`
@@ -316,6 +367,34 @@ BookAuthority評選2022年最佳財經書
 ☆56萬人造訪、240萬點閱、網路上瘋狂分享！
 ☆預購即登Amazon.com暢銷排行榜TOP1
 ☆《財星》雜誌2014年9月封面人物報導推薦
+
+> [**【圖解】解決帶人問題的識學管理法：2小時快速掌握一流主管思維，讓部屬自動自發、老闆信任、團隊績效達標**](https://www.books.com.tw/products/0011001402)
+
+`Business & Finance` `Management & Leadership` `Leading & Fostering` `9786263497689`
+
+★★★日本亞馬遜商業書暢銷冠軍★★★
+安藤廣大的圖解之作
+
+帶人帶心，
+一不小心就變反效果，
+其實，要成為一流主管的關鍵，
+從打造「人設」開始！
+
+> [**機制化之神：如何讓「人」動起來！為登上顛峰的全方位管理思維**](https://www.books.com.tw/products/0010981335)
+
+`Business & Finance` `Management & Leadership` `Leading & Fostering` `9786267406397`
+
+別檢討「人」，要檢討「制度」！
+✮2023-2024日本最暢銷經營管理TOP1✮
+
+✮暢銷商管書《數值化之鬼》作者新作，系列突破122萬冊！
+✮出版至今，蟬聯Amazon商業榜TOP1
+✮今周刊．商業周刊報導！
+✮台灣學界及商界名人共同推薦！
+✮超過4000家企業引進識學管理。
+✮登上顛峰的人上之人「全方位思維」！
+✮日本、台灣各界名人讚聲不斷，齊聲推薦。
+✮不僅限於經營者、中階主管及專業經理人，即將擔任管理職的基層員工，都同樣適用。
 
 > [**最後吃，才是真領導：創造跨世代溝通合作的零內鬨團隊（增訂版）**](https://www.books.com.tw/products/0010938458)
 
@@ -561,22 +640,25 @@ BookAuthority評選2022年最佳財經書
 
 `Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9786263497320`
 
-＼全球暢銷書《高勝算決策》作者最新力作／
-＝補足做出精準決策的失落環節＝
-適用於投資理財、選科系、找工作、挑對象和生活大小事……
-
 贏家成功的關鍵，
 不是努力不懈，
 而是懂得在對的時機「聰明放棄」，
 這也是最容易被低估、被忽視的決策能力！
 
-諾貝爾經濟學獎得主、
-《快思慢想》作者、《逆思維》作者、《跨能致勝》作者……
-★各界一致好評★
-
 ★ Amazon.com商業理財類暢銷榜No. 1
 ★ Amazon Kindle非文學類優良圖書
 ★ 橫跨經濟學、心理學、賽局理論、神經科學、哲學、風險投資、管理科學等領域
+
+> [**超級思維【暢銷經典版】：跨界、跨域、跨能，突破思考盲點，提升解決能力的心智模式大全**](https://www.books.com.tw/products/0010884979)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9786263499041`
+
+★★★★★ Amazon.com商業類暢銷榜TOP 1
+
+解決一般問題，考驗你的IQ，
+要不斷解決各種艱難問題，
+你需要──「超級思維」！
+※全新改版隨書贈「300款心智模式大全隨行本」※
 
 > [**與成功連結［全球暢銷經典］：用思考打造勝利人生！世界領導大師的11種高效思考練習**](https://www.books.com.tw/products/0010925637)
 
@@ -612,7 +694,6 @@ BookAuthority評選2022年最佳財經書
 
 為什麼，那個人的成果
 能夠比我多出150倍？
-
 該如何不靠幹勁，
 也能輕鬆愉快地持續做出成果？
 
@@ -621,6 +702,14 @@ BookAuthority評選2022年最佳財經書
 ✮商務人士必讀的年度話題書！
 ✮全世界「工作做得好的人」、「快速成長的人」唯一的共通思維。
 ✮彩色拉頁：三級跳「思維演算法」訓練
+
+> [**覺察力：哈佛商學院教你察覺別人遺漏的訊息，掌握行動先機！**](https://www.books.com.tw/products/0010660337)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789570845068`
+
+學學福爾摩斯，留意狗…為什麼沒叫？
+專注，可能引發危機！
+覺察，才是成功決策的關鍵！
 
 > [**最高學習法：激發最大學習效率的輸入大全**](https://www.books.com.tw/products/0010877100)
 
@@ -646,8 +735,6 @@ BookAuthority評選2022年最佳財經書
 > [**黑馬思維：哈佛最推崇的人生計畫，教你成就更好的自己**](https://www.books.com.tw/products/0010819494)
 
 `Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789861343419`
-
-「為什麼有些人突然橫空出世，達到非凡成就？答案就在這本書中。」──丹尼爾‧品克（《未來在等待的人才》作者）
 
 一個改變無數人生涯抉擇的權威研究：
 哈佛大學「黑馬計畫」，
@@ -692,9 +779,7 @@ BookAuthority評選2022年最佳財經書
 
 ○面對提問，你會當場愣住，還是能應對自如？
 ○在會議上被點名發表意見時，腦中突然一片空白？
-○明明已預習要發表的內容，
-一上臺卻總是忘光光，
-愈緊張就愈說不出話來？
+○明明已預習要發表的內容，一上臺卻總是忘光光，愈緊張就愈說不出話來？
 
 > [**一流的人讀書，都在哪裡畫線？：菁英閱讀的深思考技術**](https://www.books.com.tw/products/0010895146)
 
@@ -711,27 +796,10 @@ BookAuthority評選2022年最佳財經書
 《紐約時報》、《出版人週刊》、《科克斯評論》專文推薦
 ★★★★Amazon.com商業理財百大暢銷書
 
-> [**超級思維：跨界、跨域、跨能，突破思考盲點，提升解決能力的心智模式大全**](https://www.books.com.tw/products/0010884979)
-
-`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789865072735`
-
-★Amazon.com商業類暢銷榜第1名★
-解決一般性問題，考驗你的IQ，
-要不斷解決各種艱難問題，
-你需要──「超級思維」！
-
-★ 橫跨心理學、哲學、企管、物理、經濟、統計等領域，跳脫你的慣性思維
-★ 深入淺出穿插生活故事、歷史、投資理財、心理學實驗
-★ 書中附有超過100張的心智模式插圖，加速理解
-★ 《窮查理的普通常識》作者查理．蒙格、《高勝算決策》作者安妮．杜克盛讚推薦
-
 > [**高勝算決策2：做出好決策的高效訓練【暢銷實踐版】：選科系、找工作、挑伴侶、做投資⋯⋯面對人生各種抉擇，如何精準判斷、減少錯誤、提高成功率？**](https://www.books.com.tw/products/0010930886)
 
 `Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789865078935`
 
-★暢銷書《高勝算決策》作者重磅新作★
-＼商業圈、投資圈、教育界、博弈界……一致好評／
- 
 如果你有選擇障礙、
 每次做決定都猶豫不決，
 那麼，你的書櫃裡，絕對不能沒有這本書，
@@ -742,6 +810,20 @@ BookAuthority評選2022年最佳財經書
 ★ 入圍2020年洞見趨勢圖書獎非虛構類書單
 ★ 知名企業創辦人、華頓商學院教授、心理專家……好評推薦
 ★ 收錄各種練習、圖表和案例，讓你成為有自信的精準決策者
+
+> [**數值化之鬼：數字不是全部，但忽視數字的人絕對無法成長！**](https://www.books.com.tw/products/0010950728)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789865102722`
+
+★2022-2023日本最暢銷商業書TOP1，突破65萬冊！★
+★出版至今，蟬聯Amazon商業榜TOP1★
+★博客來．金石堂當月選書！★
+★受邀商業周刊(1841期)和今周刊(1364期)熱情報導！★
+★台灣策略名師湯明哲等學界及商界名人共同推薦！★
+
+3000家以上企業導入「冷靜理性」的思考法！
+「工作做得好的人」共通的唯一思維！
+閱讀本書，不需要簿記或會計等專業知識
 
 > [**雜訊：人類判斷的缺陷**](https://www.books.com.tw/products/0010986163)
 
@@ -761,15 +843,34 @@ BookAuthority評選2022年最佳財經書
 從經典個案學習商業策略
 哈佛、耶魯、MIT頂尖商學院至今必讀
 
-你非懂不可！──《經濟學人》
-本書大大提升了我的思考與決策高度！──Kenneth D. Brody，美國銀行家暨高盛合夥人
-運用範圍超乎想像！──Kenneth J. Arrow，諾貝爾經濟學獎得主
+> [**精準決策：哈佛商學院教你繞開大腦的偏誤，不出錯的做出好判斷**](https://www.books.com.tw/products/0010831772)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9789869735070`
+
+★長銷40年 經典之作★
+股神合夥人查理‧蒙格唯一推薦的管理決策書
+「這是我讀過關於『管理決策』最有用的一本書！」
+管理者必讀！哈佛商學院、哈斯商學院都在用的
+決策判斷力
 
 [_back_](#table-of-contents)
 
 ---
 
 #### Time Management
+
+> [**12週做完一年工作：縮短工時x成果翻倍的高效成功法**](https://www.books.com.tw/products/0010974991)
+
+`Business & Finance` `Social Work Skills` `Time Management` `9786263494862`
+
+──亞馬遜十年暢銷時間管理經典──
+千萬職場菁英都在用的高效管理法
+丟掉年度計畫，聚焦12週
+擺脫低效和拖延症
+打造成功的複利效應！
+
+★ 樊登讀書、劉軒（作家．正向心理學專家）、郝旭烈（企業知名財務顧問）、薑餅資（知識型YouTuber）推薦
+★ 《紐約時報》暢銷書，全球授出20多國版權，銷量30萬冊以上
 
 > [**80/20法則：商場獲利與生活如意的成功法則（20週年擴充新版）**](https://www.books.com.tw/products/0010806109)
 
@@ -1396,6 +1497,17 @@ Amazon讀者直逼★★★★★超震撼好評！
 
 ★日本發行4天立刻再版★
 ★銷量突破20萬冊★
+
+> [**集體錯覺：真相，不一定跟多數人站在同一邊！《黑馬思維》暢銷作家最新力作！**](https://www.books.com.tw/products/0010944488)
+
+`Psychlogical Inspirational` `Psychology` `Behavior & Decision-Making` `9786267181416`
+
+真相，不一定跟多數人站在同一邊！
+
+《黑馬思維》暢銷作家、哈佛大學教育心理學權威最新力作！
+2022年美國Amazon商業、領導力和科學領域年度暢銷書！
+榮登《出版家週刊》、《華爾街日報》暢銷排行榜！
+2023年1月博客來選書
 
 > [**決斷2秒間：擷取關鍵資訊，發揮不假思索的力量（暢銷慶功版）**](https://www.books.com.tw/products/0010865768)
 
