@@ -12,14 +12,28 @@
   <br>
 
   - [**Art Design**](#art-design)
+    - [**Calligraphy**](#calligraphy)
+      - [**Template**](#template)
+    - [**Design**](#design)
+      - [**Design Methods**](#design-methods)
+        - [**Graphic**](#graphic)
+      - [**Introduction**](#introduction)
   - [**Business & Finance**](#business--finance)
     - [**Economics & Trends**](#economics--trends)
       - [**Concepts/ Trends**](#concepts-trends)
       - [**Economics**](#economics)
       - [**Public/ Life Economics**](#public-life-economics)
     - [**E-commerce**](#e-commerce)
+      - [**Network Marketing/ Trend Opportunities**](#network-marketing-trend-opportunities)
     - [**Investment & Financial Management**](#investment--financial-management)
+      - [**Investment Science**](#investment-science)
+      - [**Planning**](#planning)
+        - [**Personal Finance**](#personal-finance)
     - [**Management & Leadership**](#management--leadership)
+      - [**Business Strategies**](#business-strategies)
+      - [**Entrepreneurship**](#entrepreneurship)
+      - [**Leading & Fostering**](#leading--fostering)
+      - [**Management Science**](#management-science)
     - [**Marketing/ Advertising/ Sales**](#marketing-advertising-sales)
     - [**Social Work Skills**](#social-work-skills)
       - [**Communication**](#communication)
@@ -45,6 +59,10 @@
 
 ## Art Design
 
+### Calligraphy
+
+#### Template
+
 > [**手寫美「行」：鋼筆字冠軍的日常行書超值套組=《手寫美「行」》+《美「行」小練習》**](https://www.books.com.tw/products/0010723526)
 
 `Art Design` `Calligraphy` `Template` `9789573278610`
@@ -58,12 +76,28 @@
 You are what you write.
 我，在書寫中，找到我的「行」
 
+[_back_](#table-of-contents)
+
+---
+
+### Design
+
+#### Design Methods
+
+##### Graphic
+
 > [**這樣 O 那樣 X 馬上學會好設計 （全球熱銷十萬本紀念版）**](https://www.books.com.tw/products/0010914296)
 
-`Art Design` `Design` `Design Methods` `Graphaic` `9789863126966`
+`Art Design` `Design` `Design Methods` `Graphic` `9789863126966`
 
 ★全球熱銷十萬本紀念版！蟬聯書店排行榜超過一年！
 ★上班族爭相購買的平面設計秘笈，學會基礎設計，為自己的工作能力大大加分！
+
+[_back_](#table-of-contents)
+
+---
+
+#### Introduction
 
 > [**設計的心理學：人性化的產品設計如何改變世界(3版)**](https://www.books.com.tw/products/0010643797)
 
@@ -233,6 +267,8 @@ Amazon.com商業理財百大暢銷書
 
 ### E-commerce
 
+#### Network Marketing/ Trend Opportunities
+
 > [**向億萬電商社長學網路行銷：從廣告規劃、文案撰寫到市場分析、投報評估全面解析！**](https://www.books.com.tw/products/0010949924)
 
 `Business & Finance` `E-commerce` `Network Marketing/ Trend Opportunities` `9786263296848`
@@ -247,6 +283,8 @@ Amazon.com商業理財百大暢銷書
 ---
 
 ### Investment & Financial Management
+
+#### Investment Science
 
 > [**致富心態：關於財富、貪婪與幸福的20堂理財課（暢銷增訂版）**](https://www.books.com.tw/products/0010947224)
 
@@ -285,6 +323,14 @@ BookAuthority評選2022年最佳財經書
 加值4位頂尖投資專家評注筆記，
 無論入門者或是老手，都能從大師洞見中找出自己的致勝方法！
 
+[_back_](#table-of-contents)
+
+---
+
+#### Planning
+
+##### Personal Finance
+
 > [**金錢心理學：打破你對金錢的迷思，學會聰明花費**](https://www.books.com.tw/products/0010785897)
 
 `Business & Finance` `Investment & Financial Management` `Planning` `Personal Finance` `9789864794171`
@@ -314,6 +360,8 @@ BookAuthority評選2022年最佳財經書
 ---
 
 ### Management & Leadership
+
+#### Business Strategies
 
 > [**創新的兩難【20週年暢銷經典版】：當代最具影響力的商管奠基之作，影響賈伯斯、比爾．蓋茲到貝佐斯一生的創新聖經**](https://www.books.com.tw/products/0010917450)
 
@@ -360,6 +408,12 @@ BookAuthority評選2022年最佳財經書
 工作就是為了拿高薪、升職快！絕不是當爛好人……
 兩千家上市企業都在用的「識學管理法」！
 
+[_back_](#table-of-contents)
+
+---
+
+#### Entrepreneurship
+
 > [**從0到1：打開世界運作的未知祕密，在意想不到之處發現價值**](https://www.books.com.tw/products/0010929022)
 
 `Business & Finance` `Management & Leadership` `Entrepreneurship` `9789862419533`
@@ -367,6 +421,12 @@ BookAuthority評選2022年最佳財經書
 ☆56萬人造訪、240萬點閱、網路上瘋狂分享！
 ☆預購即登Amazon.com暢銷排行榜TOP1
 ☆《財星》雜誌2014年9月封面人物報導推薦
+
+[_back_](#table-of-contents)
+
+---
+
+#### Leading & Fostering
 
 > [**【圖解】解決帶人問題的識學管理法：2小時快速掌握一流主管思維，讓部屬自動自發、老闆信任、團隊績效達標**](https://www.books.com.tw/products/0011001402)
 
@@ -423,6 +483,12 @@ BookAuthority評選2022年最佳財經書
 
 ★TED 4000萬人追蹤的黃金圈理論的具體行動方案
 ★新生代領導大師賽門‧西奈克一次解答實踐《先問，為什麼？》的疑惑
+
+[_back_](#table-of-contents)
+
+---
+
+#### Management Science
 
 > [**彼得原理：暢銷50年商管巨作！揭露公司充滿無能人物的理由**](https://www.books.com.tw/products/0010860154)
 
