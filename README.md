@@ -35,6 +35,9 @@
       - [**Leading & Fostering**](#leading--fostering)
       - [**Management Science**](#management-science)
     - [**Marketing/ Advertising/ Sales**](#marketing-advertising-sales)
+      - [**Consumer Behaviors**](#consumer-behaviors)
+      - [**Marketing**](#marketing)
+      - [**Sales/ Multi-level Marketing**](#sales-multi-level-marketing)
     - [**Social Work Skills**](#social-work-skills)
       - [**Communication**](#communication)
       - [**Negotiations**](#negotiations)
@@ -47,11 +50,38 @@
       - [**Get Rich**](#get-rich)
       - [**Self-growth**](#self-growth)
   - [**Children's Books/ Adolescent Literature**](#childrens-books-adolescent-literature)
+    - [**General Science/ Encyclopedia**](#general-science-encyclopedia)
+      - [**Encyclopedia**](#encyclopedia)
   - [**Computer Information**](#computer-information)
+    - [**Introduction/ Technological Trends**](#introduction-technological-trends)
+      - [**Artificial Intelligence/ Machine Learning**](#artificial-intelligence-machine-learning)
   - [**Humanities and Social Sciences**](#humanities-and-social-sciences)
+    - [**Anthropology/Ethnology**](#anthropologyethnology)
+    - [**History**](#history)
+      - [**Introduction to History**](#introduction-to-history)
+    - [**Psychology**](#psychology)
+      - [**Introduction**](#introduction)
+    - [**Reading/Publishing/Library Science**](#readingpublishinglibrary-science)
+      - [**Reading**](#reading)
+    - [**Social Issues**](#social-issues)
+      - [**Cultural Review/Social Watch**](#cultural-reviewsocial-watch)
+    - [**Sociology/Social Work**](#sociologysocial-work)
+      - [**Sociology**](#sociology)
+        - [**Theory/ Classics**](#theory-classics)
   - [**Natural Science**](#natural-science)
+    - [**Animals & Plants**](#animals--plants)
+      - [**Evolution & Inheritance**](#evolution--inheritance)
   - [**Psychlogical Inspirational**](#psychlogical-inspirational)
+    - [**Counseling & Treatments**](#counseling--treatments)
+    - [**Interpersonal Relationships**](#interpersonal-relationships)
+      - [**Mind Reading/ Great Knowledge of Men**](#mind-reading-great-knowledge-of-men)
+    - [**Personal Growth**](#personal-growth)
+      - [**Life Planning/ Self-changing**](#life-planning-self-changing)
+    - [**Psychology**](#psychology)
+      - [**Behavior & Decision-Making**](#behavior--decision-making)
+      - [**Classic School/ Master Thoughts**](#classic-school-master-thoughts)
   - [**Test Book**](#test-book)
+    - [**Learning Methods**](#learning-methods)
 
 </details>
 
@@ -504,6 +534,8 @@ BookAuthority評選2022年最佳財經書
 
 ### Marketing/ Advertising/ Sales
 
+#### Consumer Behaviors
+
 > [**看不見的影響力： 華頓商學院教你看清自己如何受影響，做最好的決定【暢銷慶祝版】**](https://www.books.com.tw/products/0010903616)
 
 `Business & Finance` `Marketing/ Advertising/ Sales` `Consumer Behaviors` `9789571393353`
@@ -514,6 +546,12 @@ BookAuthority評選2022年最佳財經書
 
 ＊ 冠軍暢銷書《瘋潮行銷》作者又一剖析人類行為的代表作
 ＊《何時要從眾？何時又該特立獨行？》暢銷慶祝版
+
+[_back_](#table-of-contents)
+
+---
+
+#### Marketing
 
 > [**如何讓人聽你的：華頓商學院教你用文字引發興趣、拉近關係、有效說服**](https://www.books.com.tw/products/0010968468)
 
@@ -542,6 +580,12 @@ BookAuthority評選2022年最佳財經書
 只要方法正確，平凡事物也能引發大流行！
 6大感染力法則STEPPS，
 顛覆你對行銷與流行的所有想像！
+
+[_back_](#table-of-contents)
+
+---
+
+#### Sales/ Multi-level Marketing
 
 > [**影響力：說服的六大武器，讓人在不知不覺中受擺佈【個案升級版】**](https://www.books.com.tw/products/0010718186)
 
@@ -725,6 +769,15 @@ BookAuthority評選2022年最佳財經書
 要不斷解決各種艱難問題，
 你需要──「超級思維」！
 ※全新改版隨書贈「300款心智模式大全隨行本」※
+
+> [**80/20思維：放掉80%的無效努力，抓住20%讓人生持續獲益的關鍵【首刷限量燙金版】**](https://www.books.com.tw/products/0011009076)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9786264021500`
+
+◤經典燙金．限量典藏◢
+全球頂尖商管大師理查．柯克，睽違25年隆重推出
+最適合當今世代的生活決策工具
+看懂世界運作邏輯，學會聰明的懶惰
 
 > [**與成功連結［全球暢銷經典］：用思考打造勝利人生！世界領導大師的11種高效思考練習**](https://www.books.com.tw/products/0010925637)
 
@@ -938,34 +991,17 @@ BookAuthority評選2022年最佳財經書
 ★ 樊登讀書、劉軒（作家．正向心理學專家）、郝旭烈（企業知名財務顧問）、薑餅資（知識型YouTuber）推薦
 ★ 《紐約時報》暢銷書，全球授出20多國版權，銷量30萬冊以上
 
-> [**80/20法則：商場獲利與生活如意的成功法則（20週年擴充新版）**](https://www.books.com.tw/products/0010806109)
-
-`Business & Finance` `Social Work Skills` `Time Management` `9789862139424`
-
-★ 世紀商業經典．全球暢銷逾100萬冊
-★ 原著出版20週年，更新1/5內容，全新擴充50,000字新版
-★ 工作、生活中80/20法則無所不在，最多人推崇，必懂實用的省力原理
-★ 80/20變90/10、99/1法則，資源時間精力，不均分配更重要
-★ 20週年擴充新版增訂序，4篇全新章節，讓你投入更少，成效更好
-★ 長年來深入人心，廣泛適用；《經理人月刊》《Cheers》特別報導
-
 > [**每天最重要的2小時（暢銷新版）：神經科學家教你5種有效策略，打造心智最佳狀態，聰明完成當日關鍵工作**](https://www.books.com.tw/products/0010895226)
 
 `Business & Finance` `Social Work Skills` `Time Management` `9789865549985`
 
 埋頭苦幹，可能不是最好的辦法！
 5個有效策略，創造你自己的最佳狀態，擺脫被工作追趕的窒息感！
-
 ◤專門寫給創意工作者、自由接案者、一般上班族、專業人士的工作策略書！◢
 
 ★Amazon.com商業理財／個人成長類百大暢銷書
 ★《富比士》、《金融時報》、800-CEO-READ專文報導
 ★艾爾文 作家／知識內容創作者、洪仲清 臨床心理師、Zoey 佐編茶水間創辦人──高效推薦！
-
-『看完這本書，我希望你不再想盡辦法要在一天當中擠出更多時間工作，
-而是懂得調整一些做法，讓自己每天都能有穩定高工作成效的時段，
-留一點時間來品味生活、從容過日子。』
-──喬許．戴維斯博士Josh Davis, Ph.D
 
 [_back_](#table-of-contents)
 
@@ -1317,6 +1353,10 @@ NeKo嗚喵「2024年終NeKo選書」
 
 ## Children's Books/ Adolescent Literature
 
+### General Science/ Encyclopedia
+
+#### Encyclopedia
+
 > [**我們為什麼要賺錢？為什麼要存錢？：運用財富改變未來，了解世界與自己的金錢理財課**](https://www.books.com.tw/products/0010985252)
 
 `Children's Books/ Adolescent Literature` `General Science/ Encyclopedia` `Encyclopedia` `9786263495715`
@@ -1337,6 +1377,10 @@ NeKo嗚喵「2024年終NeKo選書」
 ---
 
 ## Computer Information
+
+### Introduction/ Technological Trends
+
+#### Artificial Intelligence/ Machine Learning
 
 > [**決斷的演算：預測、分析與好決定的11堂邏輯課（三版）**](https://www.books.com.tw/products/0010942182)
 
@@ -1360,6 +1404,8 @@ NeKo嗚喵「2024年終NeKo選書」
 
 ## Humanities and Social Sciences
 
+### Anthropology/Ethnology
+
 > [**槍炮、病菌與鋼鐵：人類社會的命運‧25週年暢銷紀念版**](https://www.books.com.tw/products/0010829817)
 
 `Humanities and Social Sciences` `Anthropology/Ethnology` `9789571378527`
@@ -1374,6 +1420,14 @@ NeKo嗚喵「2024年終NeKo選書」
 
 ｜25週年暢銷紀念版｜
 
+[_back_](#table-of-contents)
+
+---
+
+### History
+
+#### Introduction to History
+
 > [**21世紀的21堂課（增訂版）**](https://www.books.com.tw/products/0010938857)
 
 `Humanities and Social Sciences` `History` `Introduction to History` `9789865258924`
@@ -1385,6 +1439,14 @@ NeKo嗚喵「2024年終NeKo選書」
 —— 哈拉瑞
 
 《21世紀的21堂課》全新修訂改版！
+
+[_back_](#table-of-contents)
+
+---
+
+### Psychology
+
+#### Introduction
 
 > [**以小勝大：弱者如何找到優勢，反敗為勝？（暢銷慶功版）**](https://www.books.com.tw/products/0010921296)
 
@@ -1410,6 +1472,14 @@ Amazon、《紐約時報》、《華爾街日報》、《經濟學人》年度�
 中央研究院曾志朗院士專文推薦！
 如果一年只能讀一本書，你絕對不能錯過《快思慢想》！
 
+[_back_](#table-of-contents)
+
+---
+
+### Reading/Publishing/Library Science
+
+#### Reading
+
 > [**如何閱讀一本書【臺灣商務70週年典藏紀念版】(三版)**](https://www.books.com.tw/products/0010736991)
 
 `Humanities and Social Sciences` `Reading/Publishing/Library Science` `Reading` `9789570530629`
@@ -1418,6 +1488,14 @@ Amazon、《紐約時報》、《華爾街日報》、《經濟學人》年度�
 不論什麼時候讀，都不能不嘆服作者對閱讀用心之深、視野之廣。
 不懂閱讀的人，初探閱讀的人，讀這本書可以節省冤枉路。
 對閱讀有所體會的人，讀這本書可以有更深的印證與領悟。
+
+[_back_](#table-of-contents)
+
+---
+
+### Social Issues
+
+#### Cultural Review/Social Watch
 
 > [**昨日世界：找回文明新命脈（暢銷慶祝版）**](https://www.books.com.tw/products/0010845709)
 
@@ -1444,6 +1522,16 @@ Amazon、《紐約時報》、《華爾街日報》、《經濟學人》年度�
 ★ 普立茲獎得主作品
 ★《紐約時報》、《華盛頓郵報》、《出版人週刊》暢銷書
 ★ 15週年暢銷紀念版
+
+[_back_](#table-of-contents)
+
+---
+
+### Sociology/Social Work
+
+#### Sociology
+
+##### Theory/ Classics
 
 > [**異數：超凡與平凡的界線在哪裡？ （暢銷慶功版）**](https://www.books.com.tw/products/0010865776)
 
@@ -1485,6 +1573,10 @@ Amazon、《紐約時報》、《華爾街日報》、《經濟學人》年度�
 
 ## Natural Science
 
+### Animals & Plants
+
+#### Evolution & Inheritance
+
 > [**自私的基因（新版）**](https://www.books.com.tw/products/0010846673)
 
 `Natural Science` `Animals & Plants` `Evolution & Inheritance` `9789864799190`
@@ -1500,6 +1592,8 @@ Amazon、《紐約時報》、《華爾街日報》、《經濟學人》年度�
 ---
 
 ## Psychlogical Inspirational
+
+### Counseling & Treatments
 
 > [**蛤蟆先生去看心理師【慶功典藏版】（暢銷500萬冊！英國心理諮商經典）**](https://www.books.com.tw/products/0010992222)
 
@@ -1519,6 +1613,14 @@ Amazon、《紐約時報》、《華爾街日報》、《經濟學人》年度�
 金石堂年度分類榜 TOP 3 
 金石堂十大影響力好書
 
+[_back_](#table-of-contents)
+
+---
+
+### Interpersonal Relationships
+
+#### Mind Reading/ Great Knowledge of Men
+
 > [**解密陌生人：顛覆識人慣性，看穿表相下的真實人性。**](https://www.books.com.tw/products/0010861345)
 
 `Psychlogical Inspirational` `Interpersonal Relationships` `Mind Reading/ Great Knowledge of Men` `9789571382319`
@@ -1535,6 +1637,14 @@ Amazon、《紐約時報》、《華爾街日報》、《經濟學人》年度�
 ◎暢銷作家艾爾文：2020最期待有中文版的書之一。
 ◎《金融時報》、《彭博新聞》、《芝加哥論壇報》等眾多媒體評選為年度最佳書籍。
 ◎21世紀的彼得．杜拉克暨《時代》百大影響力人物──麥爾坎．葛拉威爾最新力作。
+
+[_back_](#table-of-contents)
+
+---
+
+### Personal Growth
+
+#### Life Planning/ Self-changing
 
 > [**思考101：耶魯大學改變人生的一堂思辨課【博客來獨家書封版】**](https://www.books.com.tw/products/0010961014)
 
@@ -1564,6 +1674,14 @@ Amazon讀者直逼★★★★★超震撼好評！
 ★日本發行4天立刻再版★
 ★銷量突破20萬冊★
 
+[_back_](#table-of-contents)
+
+---
+
+### Psychology
+
+#### Behavior & Decision-Making
+
 > [**集體錯覺：真相，不一定跟多數人站在同一邊！《黑馬思維》暢銷作家最新力作！**](https://www.books.com.tw/products/0010944488)
 
 `Psychlogical Inspirational` `Psychology` `Behavior & Decision-Making` `9786267181416`
@@ -1586,6 +1704,12 @@ Amazon讀者直逼★★★★★超震撼好評！
 獲選《快速企業》年度最佳商業書
 AMAZON年度總榜TOP 5
 全球34國語言譯本
+
+[_back_](#table-of-contents)
+
+---
+
+#### Classic School/ Master Thoughts
 
 > [**被討厭的勇氣：自我啟發之父「阿德勒」的教導**](https://www.books.com.tw/products/0010653153)
 
@@ -1613,6 +1737,8 @@ AMAZON年度總榜TOP 5
 ---
 
 ## Test Book
+
+### Learning Methods
 
 > [**零秒速讀法：打破「精讀」幻想，教你跳躍閱讀、高效率的讀書法！**](https://www.books.com.tw/products/0010796669)
 
