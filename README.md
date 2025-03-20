@@ -1357,8 +1357,6 @@ NeKo嗚喵「2024年終NeKo選書」
 
 `Computer Information` `Introduction/ Technological Trends` `Artificial Intelligence/ Machine Learning` `9786269651771`
 
-●特別說明　本書第一、二版與本版（第三版）中文書名相同，內容沒有增加，本版主要再行修潤與校對。
-
 遠比賽局理論更強大、更全面的決策思維！
 亞馬遜書店一上市，直取「電腦科學類」暢銷榜第1名，
 並擠下《快思慢想》榮登「認知科學類」暢銷榜第1名，
