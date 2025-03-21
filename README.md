@@ -1610,23 +1610,21 @@ Amazon、《紐約時報》、《華爾街日報》、《經濟學人》年度�
 
 ### Counseling & Treatments
 
-> [**蛤蟆先生去看心理師【慶功典藏版】（暢銷500萬冊！英國心理諮商經典）**](https://www.books.com.tw/products/0010992222)
+> [**蛤蟆先生去看心理師【慶功典藏版】**](https://www.books.com.tw/products/0010992222)
 
 `Psychlogical Inspirational` `Counseling & Treatments` `4710415389640`
 
-★  暢銷 250,000 冊慶功典藏版  ★
-★  附本版專屬《蛤蟆先生勇氣防水貼 》  ★
-★  童話 × 心理學 × 經典  ★
-
 2022年繁體中文版銷售至今熱度不減，全球更突破500萬冊！
-
 博客來年度分類榜 TOP 1 
 誠品年度分類榜 TOP 1
 霸榜各大電子書通路 TOP 1
-
 圖書館最想借閱的書 TOP 2
 金石堂年度分類榜 TOP 3 
 金石堂十大影響力好書
+
+心理諮商創舉
+取材自英國童話《柳林中的風聲》完美結合心理學的經典之作
+授權10個語言版本，自1997年起長銷20多年
 
 [_back_](#table-of-contents)
 
@@ -1664,10 +1662,6 @@ Amazon、《紐約時報》、《華爾街日報》、《經濟學人》年度�
 > [**思考101：耶魯大學改變人生的一堂思辨課【博客來獨家書封版】**](https://www.books.com.tw/products/0010961014)
 
 `Psychlogical Inspirational` `Personal Growth` `Life Planning/ Self-changing` `1000007181732`
-
-讀完這本書，你將不再是之前的你
-《逆思維》亞當．格蘭特力薦：
-引導我們重新檢視本身思考方式的專業指南！
 
 2023年TOP 1「思維神書」
 入選2022《行為科學家》年度重要好書！
