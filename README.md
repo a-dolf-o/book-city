@@ -29,11 +29,14 @@
       - [**Investment Science**](#investment-science)
       - [**Planning**](#planning)
         - [**Personal Finance**](#personal-finance)
+    - [**Management Practice**](#management-practice)
+      - [**Project Management**](#project-management)
     - [**Management & Leadership**](#management--leadership)
       - [**Business Strategies**](#business-strategies)
       - [**Entrepreneurship**](#entrepreneurship)
       - [**Leading & Fostering**](#leading--fostering)
       - [**Management Science**](#management-science)
+      - [**Organization/ Management**](#organization-management)
     - [**Marketing/ Advertising/ Sales**](#marketing-advertising-sales)
       - [**Consumer Behaviors**](#consumer-behaviors)
       - [**Marketing**](#marketing)
@@ -129,6 +132,17 @@ You are what you write.
 
 #### Introduction
 
+> [**設計思考改造世界（十周年增訂新版）**](https://www.books.com.tw/products/0010879696)
+
+`Art Design` `Design` `Introduction` `9789570856682`
+
+好設計如何打動人心？好想法如何實際執行？
+設計思考以人為本、從需求出發、以創意解決難題。
+善用設計思考不僅可以打造商品、改造組織，更可以改變你我的生活！
+
+★設計界、教育界、企業管理者、行銷者都在討論的創意思考方式
+★暢銷十周年全新改版，增譯全新章節，思考設計的再設計
+
 > [**設計的心理學：人性化的產品設計如何改變世界(3版)**](https://www.books.com.tw/products/0010643797)
 
 `Art Design` `Design` `Introduction` `9789573274582`
@@ -168,6 +182,14 @@ You are what you write.
 21世紀的彼得．杜拉克╳《時代》百大影響力人物
 ——葛拉威爾Malcolm Gladwell——
 解讀流行趨勢的成名經典！
+
+> [**穀倉效應2：未來思考　數據失能、科技冷漠的 VUCA 時代，破除專業框架，擴展人生事業新格局**](https://www.books.com.tw/products/0010938984)
+
+`Business & Finance` `Economics & Trends` `Concepts/ Trends` `9789576589058`
+
+◤企業搶購、狂賣 16 刷《穀倉效應》作者最新續作◢
+Google、微軟、雀巢、Facebook、亞馬遜的全新策略 ────
+從人類學視角帶出未來思考！
 
 > [**真確：扭轉十大直覺偏誤，發現事情比你想的美好**](https://www.books.com.tw/products/0010790443)
 
@@ -389,6 +411,28 @@ BookAuthority評選2022年最佳財經書
 
 ---
 
+### 
+
+#### 
+
+> [**超級專案管理：牛津大學教授揭示計畫成敗的法則，教你順利完成任何專案**](https://www.books.com.tw/products/0010986409)
+
+`Business & Finance` `Management Practice` `Project Management` `9789570873306`
+
+為何計畫總是出錯？為何專案不是超支就是超時？
+讓牛津大學商學院教授傅以斌，
+帶領你避開計畫中的各種地雷與陷阱。
+
+★亞馬遜書店、《紐約時報》暢銷榜
+★《經濟學人》、《金融時報》、《CEO》雜誌、《晨星》2023最佳圖書
+★《金融時報》與施羅德商業書獎2023年度最佳商業書決選入圍
+★2023年廊燈商業書獎（Porchlight Business Book Award）決選入圍
+★洞見趨勢圖書獎（Non-Obvious Book Awards）年度非虛構類作品決選入圍
+
+[_back_](#table-of-contents)
+
+---
+
 ### Management & Leadership
 
 #### Business Strategies
@@ -426,6 +470,15 @@ BookAuthority評選2022年最佳財經書
 
 暢銷全球20年‧全新增訂版
 獲經濟部中小企業處金書獎
+
+> [**繁榮的悖論：如何從零消費、看似不存在的市場，突破創新界限、找到新商機**](https://www.books.com.tw/products/0010850625)
+
+`Business & Finance` `Management & Leadership` `Business Strategies` `9789863985112`
+
+全球最受推崇創新大師 克里斯汀生最後代表作：
+越絕望的地方，越有潛力！
+用反直覺的方法發現數據看不到的全新客群，
+在意想不到的地方創造新成長市場，向上流動！
 
 > [**老闆把你當心腹，部屬一路跟隨的「主管假面思維」：別鬧了！工作就是為了拿高薪、升職快，絕不是來當爛好人、被喜歡**](https://www.books.com.tw/products/0010918280)
 
@@ -527,6 +580,33 @@ BookAuthority評選2022年最佳財經書
 ★★★《紐約時報》經典暢銷書！已翻譯成多國語言，全球熱銷破億冊★★★
 ★★★管理者必讀！長銷50年，歷久不衰的商業管理經典★★★
 ★★★商業周刊1701期書摘選書★★★
+
+[_back_](#table-of-contents)
+
+---
+
+#### Organization/ Management
+
+> [**穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？**](https://www.books.com.tw/products/0010703860)
+
+`Business & Finance` `Management & Leadership` `Organization/ Management` `9789863425472`
+
+★亞馬遜行為科學類暢銷榜　第1名
+★亞馬遜人類學類暢銷榜　第1名
+★亞馬遜流程與架構類暢銷榜　第1名
+★歐美最受矚目的話題關鍵字
+★CNN、《金融時報》、 《經濟學人》、《觀察家報》、《衛報》多家媒體推薦報導
+
+金融風暴、911恐攻事件、SONY衰退、Facebook崛起……
+這些看似無關，卻都有一個被嚴重忽視的共通點──穀倉效應！
+
+> [**第五項修練（全新修訂版）：學習型組織的藝術與實務**](https://www.books.com.tw/products/0010832070)
+
+`Business & Finance` `Management & Leadership` `Organization/ Management` `9789864795307`
+
+◎  組織學習大師暢銷25年經典之作全新修訂版
+◎  21世紀最具影響力企業管理與組織成長專書
+◎  全新圖表，好讀易懂
 
 [_back_](#table-of-contents)
 
@@ -685,6 +765,13 @@ BookAuthority評選2022年最佳財經書
 
 #### Negotiations
 
+> [**分餅：源於猶太經典《塔木德》的商業法則，賽局理論大師教你找出隱而未見的價值，給對方想要的，也得到自己想要的**](https://www.books.com.tw/products/0010992475)
+
+`Business & Finance` `Social Work Skills` `Negotiations` `9786267468227`
+
+超過60萬名學生親身實證！
+耶魯商學院最受歡迎的課程精華完整公開！
+
 > [**哈佛這樣教談判力：增強優勢，談出利多人和的好結果**](https://www.books.com.tw/products/0010590581)
 
 `Business & Finance` `Social Work Skills` `Negotiations` `9789573272243`
@@ -831,6 +918,17 @@ BookAuthority評選2022年最佳財經書
 ✮商務人士必讀的年度話題書！
 ✮全世界「工作做得好的人」、「快速成長的人」唯一的共通思維。
 ✮彩色拉頁：三級跳「思維演算法」訓練
+
+> [**終局思維：矽谷、華爾街菁英高效學習法，跳脫慣性束縛、突破情勢限制，平凡時刻都是翻轉向上的瞬間**](https://www.books.com.tw/products/0010990997)
+
+`Business & Finance` `Social Work Skills` `Thinking & Deciding & Creating` `9786267468128`
+
+明智的抉擇，讓你進入對的賽道，放大努力
+通透清晰思考的底層邏輯，是決定成就的隱性優勢
+
+《紐約時報》《華爾街日報》亞馬遜書店暢銷書
+《金融時報》The Next Big Idea Club選書強推
+《原子習慣》作者克利爾：「這本書讓你每天都能做出更聰明的決定。」
 
 > [**覺察力：哈佛商學院教你察覺別人遺漏的訊息，掌握行動先機！**](https://www.books.com.tw/products/0010660337)
 
@@ -1138,6 +1236,19 @@ BookAuthority評選2022年最佳財經書
 
 #### Self-growth
 
+> [**高績效心智：全新聰明工作學，讓你成為最厲害的1%（暢銷新編版）**](https://www.books.com.tw/products/0010971920)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9786263554368`
+
+未來，什麼人最搶手？
+「管理學界最具影響力的聲音」韓森重磅發聲：
+頂尖高手都是績效控，全新工作法則就是你的新機會！
+成功學里程碑之作，席捲各大媒體推薦書榜單
+「關於聰明工作，讀這一本就夠了。」
+
+★一出版即登上Amazon、《紐約時報》、《華爾街日報》暢銷書
+★《金融時報》、《華盛頓郵報》、《企業》、《商業內幕》評選最佳商業書
+
 > [**與逆境同行 [全球暢銷經典]：領導學大師的16堂失敗訓練課，讓你翻轉慣性思維、突破困局**](https://www.books.com.tw/products/0010987670)
 
 `Business & Finance` `Successful Methods` `Self-growth` `9786267366929`
@@ -1185,6 +1296,30 @@ NeKo嗚喵「2024年終NeKo選書」
 《紐約時報》暢銷書排行榜第1名，蟬聯分類榜14週！
 亞馬遜書店評選年度最佳書籍，直逼5星滿分好評！
 售出38種語言版權，美國暢銷突破45萬冊！
+
+> [**執行長日記：關於事業與人生的33條法則**](https://www.books.com.tw/products/0010992822)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9786267406861`
+
+歐洲下載次數TOP1！
+美國、愛爾蘭、澳洲和中東地區
+商業類Podcast排名前列「The Diary Of A CEO」主持人
+★
+入選《富比士》30歲以下傑出青年榜
+★
+累計市值超過10億美元，四家業界頂尖企業的首席執行長及創辦人
+★
+Y世代執行長──史蒂文．巴列特
+無私分享成功的祕密
+
+*****************************************
+榮登《華爾街日報》、《星期日泰晤士報》暢銷榜
+榮獲 博客來‧誠品書店‧金石堂【當月選書】
+*****************************************
+這不是一本關於商業策略的書，
+策略有如季節更迭，但本書涉及更恆久的道理──
+打造卓越成就和提升自我的長遠核心法則。
+*****************************************
 
 > [**如何改變一個人：華頓商學院教你消除抗拒心理，從心擁抱改變**](https://www.books.com.tw/products/0010894579)
 
@@ -1248,6 +1383,13 @@ NeKo嗚喵「2024年終NeKo選書」
 ★ Thinkers50管理思想家｜TED演說影片觀看人次史上第二高
 
 《先問，為什麼？》暢銷作家賽門‧西奈克最新顛覆力作
+
+> [**你要如何衡量你的人生？ （全新增修版）：哈佛商學院最重要的一堂課**](https://www.books.com.tw/products/0010980069)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9789864792900`
+
+第一本將企業管理的研究成果套用在人生規劃上的書！
+特別收錄克里斯汀生訪談，剖析「人生三問」精義
 
 > [**跨能致勝：顛覆一萬小時打造天才的迷思，最適用於AI世代的成功法**](https://www.books.com.tw/products/0010865065)
 
