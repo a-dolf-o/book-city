@@ -1236,6 +1236,22 @@ BookAuthority評選2022年最佳財經書
 
 #### Self-growth
 
+> [**專注的力量：不再分心的自我鍛鍊，讓你掌握AI世代的卓越關鍵（全新修訂譯本）**](https://www.books.com.tw/products/0010958410)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9786263537637`
+
+暢銷全球10週年
+╳
+全新修訂譯本．經典重現
+《商業周刊》推薦
+《紐約時報》暢銷書
+《金融時報》、《Booklist》好評推薦
+
+「專注力」是這個時代最稀缺的心靈資產，
+也是天賦、財富、階級都無法獨占的強大力量！
+分心時代你最需要的一本書，
+工作者自我提升的最佳鍛鍊。
+
 > [**高績效心智：全新聰明工作學，讓你成為最厲害的1%（暢銷新編版）**](https://www.books.com.tw/products/0010971920)
 
 `Business & Finance` `Successful Methods` `Self-growth` `9786263554368`
@@ -1320,6 +1336,18 @@ Y世代執行長──史蒂文．巴列特
 策略有如季節更迭，但本書涉及更恆久的道理──
 打造卓越成就和提升自我的長遠核心法則。
 *****************************************
+
+> [**EQ：決定一生幸福與成就的永恆力量〔全球暢銷20週年．典藏紀念版〕**](https://www.books.com.tw/products/0010702291)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9789571365237`
+<br>
+`Psychlogical Inspirational` `Emotion & Stress`
+
+▌20週年典藏紀念版 ▌
+全球熱銷突破500萬冊！
+翻譯超過40種語言、衍生著作無數
+《時代》雜誌最具影響力商業書之一
+提升個人潛能、有效掌握情緒力量的劃時代經典鉅著
 
 > [**如何改變一個人：華頓商學院教你消除抗拒心理，從心擁抱改變**](https://www.books.com.tw/products/0010894579)
 
