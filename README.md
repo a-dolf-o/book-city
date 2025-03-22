@@ -464,6 +464,15 @@ BookAuthority評選2022年最佳財經書
 賽局經典之作．Amazon百大必讀商管書
 解析在職場、商場、體壇、政界、人生…所有賽局的贏家策略
 
+> [**十倍勝，絕不單靠運氣：如何在不確定、動盪不安環境中，依舊表現卓越？（暢銷新裝版）**](https://www.books.com.tw/products/0010852618)
+
+`Business & Finance` `Management & Leadership` `Business Strategies` `9789573287490`
+
+面對動盪、混亂且難以預測的經營環境，
+為什麼有些企業可以挺過風暴、維持高績效，有些卻每況愈下？
+A+企管大師柯林斯實證研究，破解十倍勝企業成功密碼：
+卓越是出於刻意的選擇、堅持紀律的結果。
+
 > [**10倍速時代（新版）暢銷全球20年‧全新增訂版：唯偏執狂得以倖存 英特爾傳奇CEO 安迪．葛洛夫的經營哲學(二版)**](https://www.books.com.tw/products/0010759410)
 
 `Business & Finance` `Management & Leadership` `Business Strategies` `9789862138045`
@@ -586,6 +595,33 @@ BookAuthority評選2022年最佳財經書
 ---
 
 #### Organization/ Management
+
+> [**從A到A+：企業從優秀到卓越的奧祕（暢銷新裝版）**](https://www.books.com.tw/products/0010845587)
+
+`Business & Finance` `Management & Leadership` `Organization/ Management` `9789573287032`
+
+「優秀」是「卓越」之敵！
+這不只是企業要面對的問題，也是人類共通問題。
+全球狂銷超過2,200萬冊經典鉅作，
+帶領企業與個人看見盲點、邁向卓越！
+
+全球企業推崇影響最深商管書
+●亞馬遜總裁貝佐斯採用《從A到A+》中的原則，建立組織營運的良性迴圈，造就今日的亞馬遜奇蹟。
+●英特爾、蘋果、微軟、星巴克、嬌生等知名公司深受本書影響，推動企業改造。
+
+> [**為什麼A+巨人也會倒下：企業為何走向衰敗，又該如何反敗為勝（暢銷新裝版）**](https://www.books.com.tw/products/0010858307)
+
+`Business & Finance` `Management & Leadership` `Organization/ Management` `9789573287865`
+
+當世界失控時，你更要戒慎恐懼。
+以衰敗者為師，是企業從A到A+的關鍵！
+
+> [**基業長青：高瞻遠矚企業的永續之道（暢銷新裝版）**](https://www.books.com.tw/products/0010867589)
+
+`Business & Finance` `Management & Leadership` `Organization/ Management` `9789573288619`
+
+★亞馬遜總裁貝佐斯、阿里巴巴前董事局主席馬雲推薦書單
+★《富比世》雜誌、《哈佛商業評論》評選為20世紀最具影響力管理書籍
 
 > [**穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？**](https://www.books.com.tw/products/0010703860)
 
@@ -1099,6 +1135,20 @@ BookAuthority評選2022年最佳財經書
 ★ 樊登讀書、劉軒（作家．正向心理學專家）、郝旭烈（企業知名財務顧問）、薑餅資（知識型YouTuber）推薦
 ★ 《紐約時報》暢銷書，全球授出20多國版權，銷量30萬冊以上
 
+> [**漫畫 超神‧腦科學時間術： 終結身心空轉的疲勞與低效率，日本超人氣名醫教你善用專注力╳時間思維，把人生和工作的時間價值最大化**](https://www.books.com.tw/products/0010991669)
+
+`Business & Finance` `Social Work Skills` `Time Management` `9786267491188`
+
+用最短的時間完成工作，
+剩下的時間就全部拿來享受人生！
+掌握大腦習性，輕鬆進入心流、創造巔峰表現！
+＼你就是自己的時間操縱之神！／
+
+★ 日本熱銷突破15萬冊！重磅推出漫畫版
+★ 有效改革工作模式！同步強化時間管理x專注力，每分每秒都能提升工作效率
+★ 職場生存、升學考試、自主學習、工作進度規畫都適用
+★ 以輕鬆漫畫說明，詳細展示結合腦科學╳心理學╳時間管理的方法與原理
+
 > [**每天最重要的2小時（暢銷新版）：神經科學家教你5種有效策略，打造心智最佳狀態，聰明完成當日關鍵工作**](https://www.books.com.tw/products/0010895226)
 
 `Business & Finance` `Social Work Skills` `Time Management` `9789865549985`
@@ -1129,14 +1179,14 @@ BookAuthority評選2022年最佳財經書
 
 看似複雜的商業模式，用幾個簡單的數字便可輕鬆破解！
 
-> [**最高學以致用法：讓學習發揮最大成果的輸出大全**](https://www.books.com.tw/products/0010852800)
+> [**最高學以致用法：讓學習發揮最大成果的輸出大全（慶功新版）**](https://www.books.com.tw/products/0011017081)
 
-`Business & Finance` `Social Work Skills` `Work Philosophy` `9789577412607`
+`Business & Finance` `Social Work Skills` `Work Philosophy` `9786267637067`
 <br>
-`Psychlogical Inspirational` `Personal Growth` `Life Planning/ Self-changing`
+`Psychlogical Inspirational` `Psychology` `Memory & Learning`
 
-日本Amazon商業書籍部門第一名！
-暢銷突破60萬冊！
+連續十年上榜！日本讀者票選年度商業圖書獎＜特別獎＞
+Amazon商業書籍部門第一名！系列作品累銷突破100萬冊！
 日本flier網站商業書籍「歸納」排行榜點閱率No.1！
 引爆日本廣大YouTuber熱烈分享推薦！
 
@@ -1203,6 +1253,17 @@ BookAuthority評選2022年最佳財經書
 ★美國亞馬遜書店4.7顆星評價，超過500個5星好評
 ★讀者盛讚：「這是麥斯威爾的書裡我最喜歡的！」
 
+> [**簡單準則：活用6種準則，讓你擺脫職場與生活的複雜困境**](https://www.eslite.com/product/1001144582584178)
+
+`Business & Finance` `Successful Methods` `Career Planning` `9789862486412`
+
+亞馬遜評價4.5顆星
+《華盛頓郵報》12本必讀領導書籍之一
+《彭博商業週刊》華爾街必讀書籍之一
+
+生活中所有你想要的事物都可以達成，你只須將它分解成幾個基本的規則。
+不只是兩位商業專家，許多重量級人物都如此認為。
+
 [_back_](#table-of-contents)
 
 ---
@@ -1264,6 +1325,14 @@ BookAuthority評選2022年最佳財經書
 
 ★一出版即登上Amazon、《紐約時報》、《華爾街日報》暢銷書
 ★《金融時報》、《華盛頓郵報》、《企業》、《商業內幕》評選最佳商業書
+
+> [**洞悉人性與現實的366權力法則：掌握權位、料敵、專業、遊說、謀略的每日思索，戒斷有毒信念與虛妄想像**](https://www.books.com.tw/products/0010940308)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9786267173244`
+
+《紐約時報》暢榜冠軍羅伯．葛林最新力作！
+出版24小時，旋即空降亞馬遜總榜 TOP 1！
+書評秒破千、討論度爆棚，亞馬遜讀者4.8顆星重量級推薦！
 
 > [**與逆境同行 [全球暢銷經典]：領導學大師的16堂失敗訓練課，讓你翻轉慣性思維、突破困局**](https://www.books.com.tw/products/0010987670)
 
@@ -1494,6 +1563,18 @@ Y世代執行長──史蒂文．巴列特
 ★上市即登《紐約時報》商業暢銷書榜第一名★
 ★美國亞馬遜書店5顆星，近八百位讀者好評★
 ★閱讀社群服務網站Goodreads讀者盛讚：任何想改變生活的人，必讀★
+
+> [**喚醒你心中的大師：偷學48位大師精進的藝術，做個厲害的人**](https://www.books.com.tw/products/0010756524)
+
+`Business & Finance` `Successful Methods` `Self-growth` `9789869367738`
+<br>
+`Psychlogical Inspirational` `Personal Growth` `Life Planning/ Self-changing`
+
+《紐約時報》暢銷書第一名
+
+大師是天才嗎？還是可以透過心性鍛錬來培養？
+偷學達文西、富蘭克林等大師的學習、社交、創意等策略，
+任何人都可以讓天賦發光。
 
 [_back_](#table-of-contents)
 
@@ -1859,6 +1940,21 @@ Amazon讀者直逼★★★★★超震撼好評！
 全美暢銷排行榜第1名！Amazon書店當月最佳好書！
 台灣商業周刊第1501期、經理人月刊特別專訪！
 
+> [**人性18法則：認識自己、透視他人，解碼人類行為第一專書**](https://www.books.com.tw/products/0010868819)
+
+`Psychlogical Inspirational` `Personal Growth` `Life Planning/ Self-changing` `9789869659581`
+
+黑暗但充滿力量，值得反覆琢磨的「人性教育」！
+世上最危險之人，就是沒有自知之明的人。
+世上最悲慘之事，莫過於影響不了任何人。
+權力教父領路，讓你在穿越人性叢林時趨吉避凶，
+進而擄獲人心！
+
+■多次蟬聯《紐約時報》冠軍書作者費時五年最新力作！ 
+■亞馬遜千萬讀者 ★★★★★ 好評，逾千位讀者寫評力推!
+■「打開這本書稿，我根本停不下來，這書好看到誇張！」—十方（李雅雯），理財暢銷作家
+■「讀完這本書，不用再看心理醫師！」—忠實讀者
+
 [_back_](#table-of-contents)
 
 ---
@@ -1889,6 +1985,18 @@ Amazon讀者直逼★★★★★超震撼好評！
 獲選《快速企業》年度最佳商業書
 AMAZON年度總榜TOP 5
 全球34國語言譯本
+
+> [**康乃爾最經典的思考邏輯課：避開六大謬誤, 資訊時代必備的理性判斷工具（暢銷典藏版）**](https://www.eslite.com/product/1001124182682096994005)
+
+`Psychlogical Inspirational` `Psychology` `Behavior & Decision-Making` `9789861344027`
+
+小心！理性犯的錯，最可怕！
+研究顯示，錯誤認知並非因為愚蠢或無知，而是有過多的腦補與不完整的資訊！
+本書教你如何避免自以為是的思考陷阱，從個人投資到企業戰略，做出最正確的決定！
+「一本關於人類理性偏見最重要的著作！」
+
+★榮登各大書店年度紙本、電子暢銷書榜
+★橫跨商業理財、社會哲思、人文社科各大分類
 
 [_back_](#table-of-contents)
 
